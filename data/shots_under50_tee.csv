@@ -1,0 +1,1341 @@
+roundid,uid,username,golfername,date,course,round,score,holeid,hnum,shotid,stroke,startpos,holedis,recovery,pickup,penalty,prosg,scrsg,mental,lie,total_strokes,strokes_remaining
+113445,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-06-25,Annbriar,1,82,2037507,7,6677939,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+113445,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-06-25,Annbriar,1,82,2037517,17,6677985,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+86619,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-08-31,,1,71,1554676,8,4993035,2,0,0,0,0,1,0.0,0.0,,Tee,6,5
+87029,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-08-30,Sunset Count,1,71,1562038,8,5016582,2,0,0,0,0,1,0.0,0.0,,Tee,6,5
+87140,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-09-05,Sunset Count,1,37,1564043,15,5023403,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+87360,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2020-09-06,Goose Creek ,1,71,1567995,7,5038079,2,0,0,0,0,1,0.0,0.0,,Tee,6,5
+88133,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-09-13,Sunset Count,1,74,1581916,14,5085919,2,0,0,0,0,2,0.0,0.0,,Tee,5,4
+88674,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2020-09-15,Marbella ,1,70,1591649,9,5118208,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+88806,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-09-19,Sunset Count,1,77,1594018,2,5126138,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+88806,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-09-19,Sunset Count,1,77,1594025,9,5126169,2,0,0,0,0,1,0.0,0.0,,Tee,6,5
+88880,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-20,New Tanjong ,1,80,1595349,1,5130766,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+88880,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-20,New Tanjong ,1,80,1595349,1,5130769,5,0,0,0,0,1,0.0,0.0,,Tee,5,1
+89075,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2020-09-20,OlympiaField,1,73,1598875,17,5142948,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+89076,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-09-20,Sunset Count,1,76,1598883,7,5142983,2,0,0,0,0,2,0.0,0.0,,Tee,6,5
+89303,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,SGC,1,91,1602966,4,5157399,5,0,0,0,0,1,0.0,0.0,,Tee,5,1
+89303,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,SGC,1,91,1602970,8,5157419,6,0,0,0,0,1,0.0,0.0,,Tee,6,1
+89303,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,SGC,1,91,1602975,13,5157446,7,0,0,0,0,1,0.0,0.0,,Tee,7,1
+89303,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,SGC,1,91,1602978,16,5157460,6,0,0,0,0,1,0.0,0.0,,Tee,6,1
+89303,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,SGC,1,91,1602980,18,5157469,5,0,0,0,1,2,0.0,0.0,,Tee,6,2
+89502,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,New Tanjong ,1,91,1606548,4,5169072,5,0,0,0,0,1,0.0,0.0,,Tee,5,1
+89502,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,New Tanjong ,1,91,1606552,8,5169092,6,0,0,0,0,1,0.0,0.0,,Tee,6,1
+89502,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,New Tanjong ,1,91,1606557,13,5169119,7,0,0,0,0,1,0.0,0.0,,Tee,7,1
+89502,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,New Tanjong ,1,91,1606560,16,5169133,6,0,0,0,0,1,0.0,0.0,,Tee,6,1
+89502,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-23,New Tanjong ,1,91,1606562,18,5169142,5,0,0,0,1,2,0.0,0.0,,Tee,6,2
+90838,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-09-26,St. Albans,1,78,1630600,8,5247325,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+90838,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-09-26,St. Albans,1,78,1630601,9,5247330,2,0,0,0,0,1,0.0,0.0,,Tee,6,5
+89999,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2020-09-28,OlympiaField,1,74,1615504,14,5199233,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+90043,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-29,SICC Island,1,79,1616283,1,5201620,2,0,0,0,0,1,0.0,0.0,,Tee,6,5
+90043,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-09-29,SICC Island,1,79,1616283,1,5201624,6,0,0,0,0,1,0.0,0.0,,Tee,6,1
+91042,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2020-10-03,OlympiaField,1,72,1634277,13,5259525,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+90842,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-10-04,Sunset Count,1,36,1630680,16,5247485,2,0,0,0,0,1,0.0,0.0,,Tee,4,3
+91082,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-10-08,New Tanjong ,1,40,1634996,12,5261814,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+91534,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-10-10,Green Hills,1,83,1643131,11,5288214,2,0,0,0,0,1,0.0,0.0,,Tee,5,4
+91534,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-10-10,Green Hills,1,83,1643132,12,5288219,2,0,0,0,0,1,0.0,0.0,,Tee,7,6
+91534,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-10-10,Green Hills,1,83,1643136,16,5288238,2,0,0,0,0,1,0.0,0.0,,Tee,7,6
+91786,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2020-10-14,Wedgewood,1,71,1647668,12,5302867,3,0,35,1,0,0,0.344,0.333, ,Tee,5,3
+91787,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2020-10-14,Wedgewood,2,75,1647692,18,5302963,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+91879,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-10-11,Green Hills,1,85,1649331,1,5308346,4,0,0,0,0,1,0.0,0.0,,Tee,8,5
+91879,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2020-10-11,Green Hills,1,85,1649345,15,5308411,3,0,0,0,0,1,0.0,0.0,,Tee,6,4
+92915,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-10-26,New Tanjong ,1,76,1667995,17,5372115,2,0,0,0,0,1,0.0,0.0,2,Tee,5,4
+93089,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-10-28,SICC Bukit,1,78,1671111,1,5382066,3,0,25,1,0,0,0.63,0.641,2,Tee,5,3
+93089,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-10-28,SICC Bukit,1,78,1671113,3,5382073,2,0,10,1,0,0,-1.126,-1.174,3,Tee,5,4
+93089,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2020-10-28,SICC Bukit,1,78,1671114,4,5382079,3,0,30,1,0,0,-0.173,-0.288,3,Tee,6,4
+96756,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-01-14,Marbella ,1,69,1737120,4,5608835,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+96885,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-01-15,Marbella ,1,71,1739443,5,5616810,2,0,0,0,1,1,0.0,0.0, ,Tee,6,5
+96885,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-01-15,Marbella ,1,71,1739443,5,5616811,3,0,0,0,1,1,0.0,0.0, ,Tee,6,4
+96885,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-01-15,Marbella ,1,71,1739455,17,5616858,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+96982,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-01-18,Marbella ,1,73,1741186,2,5622824,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+97964,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-05,Marbella ,1,70,1758870,10,5684964,2,0,0,0,0,2,0.0,0.0, ,Tee,4,3
+97965,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-06,Marbella ,1,72,1758880,2,5685005,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+97965,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-06,Marbella ,1,72,1758893,15,5685058,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+98106,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-14,Marbella ,2,78,1761420,4,5693834,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+98431,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-21,Marbella ,1,77,1767273,7,5713969,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+98448,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-23,Marbella ,1,73,1767573,1,5714876,3,0,40,1,0,0,1.681,1.723, ,Tee,4,2
+98448,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-23,Marbella ,1,73,1767575,3,5714884,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+98583,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-24,Marbella ,1,78,1770011,9,5722988,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+98583,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-24,Marbella ,1,78,1770013,11,5723000,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+98805,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-26,Marbella ,1,73,1774000,2,5737269,2,0,0,0,1,1,0.0,0.0, ,Tee,6,5
+98805,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-02-26,Marbella ,1,73,1774013,15,5737320,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+99079,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-03-05,Sunset Count,1,53,1778946,16,5754538,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+99087,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-03-05,Marbella ,1,72,1779076,2,5755071,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+99087,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-03-05,Marbella ,1,72,1779085,11,5755105,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+99293,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-03-07,Wigwam Red,1,76,1782791,9,5768220,2,0,0,0,1,1,0.0,0.0, ,Tee,6,5
+99293,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-03-07,Wigwam Red,1,76,1782791,9,5768221,3,0,0,0,1,1,0.0,0.0, ,Tee,6,4
+99328,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-03-08,Wigwam Gold,1,83,1783430,18,5770691,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+99885,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-03-09,Wigwam Gold,1,83,1793447,9,5804933,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+99464,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-03-09,Marbella ,1,35,1785862,2,5778880,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+99640,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-03-12,OrchardValle,1,75,1789037,9,5789715,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+99640,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-03-12,OrchardValle,1,75,1789045,17,5789749,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+99931,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-03-14,Cog Hill #3,1,71,1794281,15,5807511,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+99770,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-03-12,Marbella ,1,73,1791372,4,5797024,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+100210,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-03-20,Cog Hill #3,1,70,1799301,13,5824988,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+100702,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-03-19,Marbella ,1,74,1808155,11,5856142,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+100783,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-03-26,Cog Hill #1,1,72,1809613,11,5861528,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+100923,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-03-27,Cog Hill #1,1,73,1812133,11,5870651,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+101243,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-03-28,Cog Hill #3,1,70,1817897,15,5891024,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+101344,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-04-01,Cog Hill #1,1,71,1819706,6,5897492,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+101345,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-04-01,PrairieBluff,1,76,1819736,18,5897613,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+101617,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-03-26,Marbella ,1,76,1824617,3,5914984,2,0,40,1,0,0,0.551,0.511, ,Tee,5,4
+101617,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-03-26,Marbella ,1,76,1824625,11,5915014,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+104331,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-04-04,Marbella ,1,71,1873450,2,6090278,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+104331,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-04-04,Marbella ,1,71,1873452,4,6090288,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+102412,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-04-04,Cog Hill #3,1,73,1838925,1,5965250,3,0,45,1,0,0,0.346,0.302, ,Tee,5,3
+103358,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-04-11,Bolingbrook,1,75,1855965,13,6027329,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+105120,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-01,Marbella ,1,75,1887658,8,6141979,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+105120,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-01,Marbella ,1,75,1887664,14,6142003,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+105120,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-01,Marbella ,1,75,1887665,15,6142010,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+105120,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-01,Marbella ,1,75,1887667,17,6142018,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+105959,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-07,Marbella ,1,76,1902762,10,6193917,3,0,15,1,0,0,0.885,0.854, ,Tee,5,3
+106059,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-04-24,Sunset Count,1,77,1904559,7,6200569,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+106059,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-04-24,Sunset Count,1,77,1904560,8,6200575,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+106060,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-04-30,Sunset Count,1,78,1904578,8,6200654,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+106061,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-05-04,Sunset Count,1,78,1904592,4,6200712,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+106061,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-05-04,Sunset Count,1,78,1904595,7,6200726,3,0,0,0,1,1,0.0,0.0, ,Tee,7,5
+106652,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-14,Marbella ,1,74,1915239,13,6238571,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+106652,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-14,Marbella ,1,74,1915240,14,6238577,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+106933,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-19,Marbella ,1,73,1920288,4,6256625,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+106933,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-19,Marbella ,1,73,1920295,11,6256653,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+106933,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-19,Marbella ,1,73,1920295,11,6256654,3,0,15,1,0,0,1.157,1.116, ,Tee,5,3
+109267,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-05-15,Gateway Nat,1,18,1962297,1,6407377,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+107074,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-21,Marbella ,1,75,1922828,6,6265628,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+107074,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-21,Marbella ,1,75,1922840,18,6265676,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+107767,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-22,Marbella ,1,70,1935306,10,6310873,3,0,45,1,0,0,0.898,0.911, ,Tee,5,3
+108061,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-05-23,Sanctuary,1,75,1940600,12,6330781,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+108061,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-05-23,Sanctuary,1,75,1940600,12,6330783,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+108062,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-05-23,Sanctuary,2,75,1940609,3,6330823,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+108062,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-05-23,Sanctuary,2,75,1940624,18,6330886,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+108192,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-05-30,Cog Hill #3,2,67,1942950,4,6339943,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+108238,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-28,Marbella ,1,51,1943776,2,6343009,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+108238,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-28,Marbella ,1,51,1943782,8,6343032,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+108238,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-28,Marbella ,1,51,1943785,11,6343046,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+108238,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-05-28,Marbella ,1,51,1943786,12,6343050,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+109269,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-05-31,Sunset Count,1,40,1962340,8,6407463,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+109269,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-05-31,Sunset Count,1,40,1962341,9,6407469,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+113548,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-04,Sunset Count,1,82,2039357,3,6684663,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+113548,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-04,Sunset Count,1,82,2039362,8,6684686,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+113548,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-04,Sunset Count,1,82,2039363,9,6684692,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+114373,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-06-29,Serapong,1,80,2054211,7,6737284,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+114373,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-06-29,Serapong,1,80,2054219,15,6737320,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+114373,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-06-29,Serapong,1,80,2054222,18,6737332,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+115120,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-06-20,Wedgewood,2,76,2067653,3,6784204,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+115164,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-07-15,Harborside P,1,74,2068459,17,6787353,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+115815,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-07-20,Lgna Classic,1,79,2080170,10,6830561,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+115815,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-07-20,Lgna Classic,1,79,2080172,12,6830571,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+117582,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-05,Aberdeen,1,81,2111970,4,6940337,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+117582,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-05,Aberdeen,1,81,2111975,9,6940362,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+117582,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-05,Aberdeen,1,81,2111982,16,6940392,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+117583,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-04,Sunset Count,2,71,2111988,4,6940419,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+117763,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-07-22,Serapong,1,56,2115228,4,6951487,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+117763,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-07-22,Serapong,1,56,2115240,16,6951518,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+117763,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-07-22,Serapong,1,56,2115242,18,6951525,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+119611,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-22,Bogey Hills,1,84,2148495,7,7063388,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+119611,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-07-22,Bogey Hills,1,84,2148497,9,7063398,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+119888,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-04,Sunset Count,1,62,2153487,13,7079417,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+120159,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-05,Saint Louis,1,86,2158356,4,7095754,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+120159,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-05,Saint Louis,1,86,2158360,8,7095777,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+120159,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-05,Saint Louis,1,86,2158362,10,7095786,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+120306,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-06,Saint Louis,1,76,2161007,9,7105079,3,0,0,0,1,1,0.0,0.0, ,Tee,6,4
+120454,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-05,Midpac CC,1,78,2163678,16,7114741,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+120454,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-05,Midpac CC,1,78,2163679,17,7114747,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+120454,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-05,Midpac CC,1,78,2163680,18,7114753,3,0,10,1,0,0,0.284,0.239, ,Tee,7,5
+120916,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-07,Sunset Count,1,83,2171987,9,7144339,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+122110,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-13,Sunset Count,1,77,2193456,4,7215628,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+122110,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-13,Sunset Count,1,77,2193464,12,7215663,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+122110,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-13,Sunset Count,1,77,2193465,13,7215668,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+122472,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-14,Sunset Count,1,82,2199976,8,7240363,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+122472,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-14,Sunset Count,1,82,2199984,16,7240403,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+122472,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-14,Sunset Count,1,82,2199984,16,7240404,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+125770,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-08-13,,1,50,2259339,7,7447794,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+123132,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-17,Sunset Count,1,72,2211860,12,7281953,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+123159,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-13,Midpac CC,1,78,2212352,18,7283934,2,0,50,1,0,0,0.114,-0.051, ,Tee,6,5
+124095,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-18,LACC North,1,77,2229185,3,7342660,2,0,10,1,0,0,-0.531,-0.718, ,Tee,6,5
+124095,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-18,LACC North,1,77,2229187,5,7342669,2,0,40,1,0,0,-0.365,-0.612, ,Tee,7,6
+124095,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-18,LACC North,1,77,2229187,5,7342671,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+123366,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-18,Sunset Count,1,80,2216063,3,7296687,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+123558,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-19,Sunset Count,1,75,2219524,8,7308144,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+123601,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-08-20,goose creek,1,70,2220308,18,7311113,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+124290,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-20,Sunset Count,1,68,2232701,9,7355325,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+124713,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-24,Sunset Count,1,79,2240310,4,7381346,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+124713,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-24,Sunset Count,1,79,2240314,8,7381366,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+124660,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-08-16,Sanctuary,1,68,2239368,16,7378391,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+124669,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-08-12,Bonneville,1,84,2239525,11,7378906,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+124856,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-25,Mountain Mea,1,40,2242895,15,7390183,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+124856,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-25,Mountain Mea,1,40,2242898,18,7390195,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+125033,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-08-26,Goose Creek,1,72,2246073,7,7402145,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+125033,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-08-26,Goose Creek,1,72,2246084,18,7402187,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+124916,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-08-26,Goose Creek,1,77,2243967,7,7393789,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+124916,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-08-26,Goose Creek,1,77,2243978,18,7393837,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+125037,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-26,Goose Creek,1,79,2246146,8,7402392,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+125037,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-26,Goose Creek,1,79,2246155,17,7402433,4,0,20,1,0,0,-0.924,-0.924, ,Tee,7,4
+125037,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-26,Goose Creek,1,79,2246155,17,7402436,5,0,10,1,0,0,0.536,0.544, ,Tee,7,3
+125075,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-08-27,Mount Meadow,1,36,2246833,11,7404426,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+125133,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-27,Mountain Mea,1,39,2247881,15,7408091,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+125359,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-27,Sunset Count,1,80,2251937,3,7421826,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+125359,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-27,Sunset Count,1,80,2251938,4,7421831,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+125889,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-28,Sunset Count,1,37,2261490,16,7455381,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+126572,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-08-29,Oak Valley,1,72,2273777,9,7498646,3,0,40,1,0,0,-0.023,-0.015, ,Tee,6,4
+125800,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-28,Sunset Count,2,62,2259878,6,7449492,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+125800,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-28,Sunset Count,2,62,2259879,7,7449497,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+125895,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-29,Sunset Count,1,38,2261595,13,7455790,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+125895,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-29,Sunset Count,1,38,2261598,16,7455804,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+126117,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-29,Oak valley ,1,80,2265587,9,7470836,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+126117,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-29,Oak valley ,1,80,2265594,16,7470868,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+126117,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-08-29,Oak valley ,1,80,2265596,18,7470877,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+126432,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-31,Sunset Count,1,76,2271249,1,7490394,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+126432,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-31,Sunset Count,1,76,2271254,6,7490414,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+126432,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-08-31,Sunset Count,1,76,2271255,7,7490421,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+126488,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-01,Boone Valley,1,81,2272262,6,7493573,4,0,0,0,1,1,0.0,0.0, ,Tee,7,4
+126488,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-01,Boone Valley,1,81,2272270,14,7493605,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+126488,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-01,Boone Valley,1,81,2272271,15,7493612,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+126488,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-01,Boone Valley,1,81,2272273,17,7493620,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+126595,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-02,mount medow,1,39,2274195,13,7499836,2,0,20,1,0,0,0.302,0.258, ,Tee,4,3
+126573,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-08-29,Oak Valley ,1,72,2273796,10,7498723,3,0,25,1,0,0,-0.202,-0.191, ,Tee,6,4
+126591,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-02,Mount Meadow,1,38,2274121,11,7499670,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+127352,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-02,Forest Hills,1,53,2287810,2,7547716,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+127352,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-02,Forest Hills,1,53,2287810,2,7547717,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+126836,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-02,mountain m,1,37,2278530,10,7513765,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+126836,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-02,mountain m,1,37,2278531,11,7513770,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+126836,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-02,mountain m,1,37,2278533,13,7513779,2,0,15,1,1,0,0.274,0.23, ,Tee,4,3
+126864,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-03,Oak valley ,1,80,2279037,13,7515565,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+126864,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-03,Oak valley ,1,80,2279042,18,7515589,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+127151,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-03,oak valley,1,77,2284208,18,7534539,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+126954,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-03,Oak Creek,1,84,2280648,4,7521518,2,0,50,1,0,0,-0.142,-0.137, ,Tee,5,4
+126954,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-03,Oak Creek,1,84,2280651,7,7521534,4,0,5,1,0,0,-0.918,-0.918, ,Tee,7,4
+126954,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-03,Oak Creek,1,84,2280651,7,7521535,5,0,4,1,0,0,-0.018,-0.032, ,Tee,7,3
+126954,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-03,Oak Creek,1,84,2280661,17,7521580,3,0,15,1,0,0,0.074,0.091, ,Tee,5,3
+127150,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-04,Oak Valley,1,79,2284190,18,7534460,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+127152,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-04,Oak Creek,1,76,2284216,8,7534573,3,0,25,1,0,0,0.542,0.551, ,Tee,5,3
+127152,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-04,Oak Creek,1,76,2284217,9,7534577,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+127227,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-03,Oak Valley ,1,76,2285565,7,7539436,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+127227,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-03,Oak Valley ,1,76,2285574,16,7539473,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+127227,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-03,Oak Valley ,1,76,2285576,18,7539484,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+127604,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-04,Oak valley ,1,79,2292359,15,7564933,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+127604,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-04,Oak valley ,1,79,2292362,18,7564950,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+127471,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-05,Goose Creek,1,75,2289954,4,7555965,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+127501,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-05,Goose Creek,1,75,2290504,14,7558074,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+127501,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-05,Goose Creek,1,75,2290505,15,7558078,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+127501,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-05,Goose Creek,1,75,2290508,18,7558093,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+127767,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-04,Oak Valley ,1,77,2295279,1,7575454,3,0,25,1,0,0,1.434,1.453, ,Tee,4,2
+127767,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-04,Oak Valley ,1,77,2295286,8,7575482,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+127767,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-04,Oak Valley ,1,77,2295294,16,7575515,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+127767,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-04,Oak Valley ,1,77,2295296,18,7575524,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+127767,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-04,Oak Valley ,1,77,2295296,18,7575526,4,0,20,1,0,0,1.078,1.037, ,Tee,6,3
+127768,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-05,Goose Creek ,1,76,2295305,9,7575563,2,0,30,1,0,0,0.177,0.165, ,Tee,5,4
+127892,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2021-09-06,sierra lakes,1,77,2297535,7,7584099,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+127998,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-06,Oak Valley,1,80,2299443,7,7590618,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+127998,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-06,Oak Valley,1,80,2299453,17,7590662,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+128011,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-08,Mt Meadows w,1,25,2299681,11,7591352,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+128166,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-05,goose creek,1,79,2302467,7,7600755,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+128166,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-05,goose creek,1,79,2302472,12,7600777,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+128166,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-05,goose creek,1,79,2302477,17,7600800,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+128207,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-09,Mountain Mea,1,37,2303211,13,7602771,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+128969,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-09,mount medow,1,42,2316927,13,7650937,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+128969,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-09,mount medow,1,42,2316929,15,7650948,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+129114,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-12,Glendora,1,94,2319529,5,7660618,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+129114,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-12,Glendora,1,94,2319531,7,7660631,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+129114,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-12,Glendora,1,94,2319533,9,7660640,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+129114,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-12,Glendora,1,94,2319534,10,7660647,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+129147,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-13,Green Hills,1,80,2320119,1,7662921,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+129147,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-13,Green Hills,1,80,2320120,2,7662926,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+129147,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-13,Green Hills,1,80,2320121,3,7662932,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+129147,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-13,Green Hills,1,80,2320130,12,7662971,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+129301,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-13,Olivas Links,2,76,2322894,4,7672107,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+129304,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-13,Links,1,74,2322959,15,7672315,3,0,25,1,0,0,0.713,0.717, ,Tee,5,3
+129381,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-13,Links,2,78,2324332,2,7677494,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+129312,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-14,Olivas Links,1,70,2323091,3,7672873,3,0,30,1,0,0,0.069,0.087, ,Tee,6,4
+129312,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-14,Olivas Links,1,70,2323102,14,7672916,3,0,45,1,0,0,0.264,0.245, ,Tee,5,3
+129325,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-13,Olivas Links,1,77,2323326,4,7673606,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+129355,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-14,Olivas Links,1,72,2323866,4,7675668,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+129382,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-14,Links,1,73,2324350,2,7677571,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+129995,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-16,Sunset Count,1,75,2335391,9,7715612,2,0,0,0,0,1,0.0,0.0,3,Tee,5,4
+129995,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-16,Sunset Count,1,75,2335392,10,7715617,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+130520,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-20,Red ,1,70,2344833,1,7749307,4,0,12,1,0,0,1.328,1.347, ,Tee,5,2
+130556,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-20,Sunset Hills,1,81,2345484,4,7751709,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+130556,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-20,Sunset Hills,1,81,2345490,10,7751733,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+130556,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-20,Sunset Hills,1,81,2345492,12,7751744,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+130556,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-20,Sunset Hills,1,81,2345497,17,7751767,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+130557,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-09-19,Sunset Count,1,71,2345499,1,7751776,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+130646,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-21,Red ,1,74,2347109,9,7757423,3,0,0,0,1,2,0.0,0.0, ,Tee,7,5
+130774,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-19,Glendora CC,1,85,2349410,6,7765080,3,0,25,1,0,0,0.047,0.003, ,Tee,6,4
+132091,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-27,Sterling,1,79,2373114,4,7851844,4,0,10,1,0,0,0.914,0.875, ,Tee,6,3
+132091,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-27,Sterling,1,79,2373115,5,7851848,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+132091,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-27,Sterling,1,79,2373128,18,7851906,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+131762,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-27,SterlingGrov,2,80,2367198,10,7828408,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+131697,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-27,Sterling Gro,1,80,2366024,6,7824438,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+131697,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-27,Sterling Gro,1,80,2366029,11,7824461,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+131697,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-27,Sterling Gro,1,80,2366029,11,7824462,5,0,28,1,0,0,0.117,0.146, ,Tee,7,3
+132315,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-28,Sterling ,1,79,2377150,8,7865074,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+132315,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-09-28,Sterling ,1,79,2377155,13,7865102,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+131738,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-27,SterlingGrov,2,78,2366771,15,7826853,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+131739,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-28,SterlingGrov,1,78,2366780,6,7826894,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+131739,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2021-09-28,SterlingGrov,1,78,2366785,11,7826916,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+131740,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2021-09-28,Sterling Gro,1,79,2366798,6,7826976,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+132898,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-28,SterlingGrov,1,84,2387644,8,7902900,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+132898,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-09-28,SterlingGrov,1,84,2387649,13,7902925,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+131871,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-28,Sterling,1,85,2369158,8,7836131,2,0,0,0,0,2,0.0,0.0, ,Tee,8,7
+131871,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-28,Sterling,1,85,2369163,13,7836158,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+131871,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-28,Sterling,1,85,2369168,18,7836181,3,0,0,0,0,2,0.0,0.0, ,Tee,7,5
+132092,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-09-27,Sterling,2,80,2373137,9,7851947,3,0,0,0,0,1,0.0,0.0, ,Tee,8,6
+132854,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2021-10-03,Glendora CC,1,76,2386862,18,7900108,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+133058,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-10-04,glendora cc,1,77,2390525,9,7912425,3,0,20,1,0,0,-0.085,-0.21, ,Tee,6,4
+135593,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2021-10-25,wine ,1,71,2436161,15,8075772,3,0,15,1,0,0,0.775,0.754, ,Tee,5,3
+138602,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-10-24,glendora cc,1,78,2490282,10,8269876,3,0,20,1,0,0,-0.057,-0.039, ,Tee,6,4
+136266,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-10-31,Sunset Count,1,53,2448265,5,8120604,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+136266,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-10-31,Sunset Count,1,53,2448268,8,8120618,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+136266,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-10-31,Sunset Count,1,53,2448268,8,8120620,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+137161,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2021-11-09,Sunset Count,1,40,2464378,8,8179106,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+140882,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2021-12-23,kaánapali gc,1,12,2531313,1,8417335,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+143431,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-01-23,MM,1,15,2577198,4,8577825,2,0,0,0,0,1,0.0,0.0, ,Tee,2,1
+143432,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-01-20,MM,1,40,2577217,5,8577845,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+143587,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-01-28,Glendora,1,36,2580007,5,8587386,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+143786,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-01-30,legends,1,83,2583602,18,8599274,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+143786,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-01-30,legends,1,83,2583602,18,8599276,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+144057,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-04,glendo,1,40,2588469,7,8615754,2,0,25,1,0,0,-0.002,0.016, ,Tee,4,3
+144058,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-04,Glendora CC,1,39,2588487,7,8615791,2,0,20,1,0,0,-0.981,-0.952, ,Tee,5,4
+144058,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-04,Glendora CC,1,39,2588487,7,8615792,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+144249,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-06,morongochamp,1,80,2591924,6,8627942,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+144249,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-06,morongochamp,1,80,2591927,9,8627956,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+144249,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-06,morongochamp,1,80,2591930,12,8627975,3,0,30,1,0,0,0.069,0.087, ,Tee,5,3
+144247,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-02-06,Morongo,1,84,2591885,3,8627763,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+144247,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-02-06,Morongo,1,84,2591886,4,8627768,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+144255,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-06,Morongo ,1,93,2592037,11,8628291,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+144255,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-06,Morongo ,1,93,2592040,14,8628310,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+144255,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-06,Morongo ,1,93,2592041,15,8628316,2,0,0,0,1,1,0.0,0.0, ,Tee,5,4
+144255,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-06,Morongo ,1,93,2592042,16,8628321,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+144251,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-06,Morongochamp,1,78,2591957,3,8628021,2,0,40,1,0,0,0.043,0.041, ,Tee,5,4
+144310,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-02-06,Morongo Ch,1,85,2593027,11,8631755,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+144310,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-02-06,Morongo Ch,1,85,2593028,12,8631764,4,0,30,1,0,0,0.069,0.087, ,Tee,7,4
+144310,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-02-06,Morongo Ch,1,85,2593034,18,8631793,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+144264,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-06,Morongo ,1,86,2592199,11,8628761,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+144264,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-06,Morongo ,1,86,2592202,14,8628778,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+144497,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-10,MM,1,37,2596397,15,8643150,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+144624,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-02-11,Mount Meadow,1,75,2598677,9,8650568,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+144621,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-11,Mountain Mea,1,75,2598626,12,8650377,3,0,40,1,0,0,0.906,0.909, ,Tee,5,3
+144625,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-02-11,MM,1,78,2598697,11,8650652,2,0,0,0,0,2,0.0,0.0, ,Tee,9,8
+144641,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-11,glendo,1,72,2598981,7,8651469,2,0,25,1,0,0,-0.103,-0.096, ,Tee,4,3
+144884,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-02-13,Morongo Cham,1,77,2603362,14,8667492,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+145032,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-13,MM,1,88,2606025,13,8676680,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+145032,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-13,MM,1,88,2606030,18,8676704,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+145118,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-02-13,champions,1,90,2607564,4,8681743,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+145118,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-02-13,champions,1,90,2607574,14,8681794,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+145295,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-02-18,MM,1,77,2610751,5,8691242,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+145344,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-18,MM,1,82,2611632,4,8694412,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+145344,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-18,MM,1,82,2611633,5,8694418,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+145344,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-18,MM,1,82,2611640,12,8694448,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+145477,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-18,mountain m,1,75,2614027,5,8703073,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+145477,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-18,mountain m,1,75,2614030,8,8703086,3,0,40,1,0,0,0.179,0.16, ,Tee,6,4
+145477,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-18,mountain m,1,75,2614040,18,8703127,3,0,25,1,0,0,0.44,0.43, ,Tee,5,3
+145539,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-18,Mountain Mea,1,81,2615142,4,8707215,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+145721,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-21,Sterling ,1,80,2618420,6,8718958,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+145721,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-21,Sterling ,1,80,2618427,13,8718990,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+145656,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-20,Glendora,1,43,2617249,5,8715030,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+145723,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-21,SterlingGrov,2,87,2618462,12,8719147,3,0,0,0,0,1,0.0,0.0, ,Tee,8,6
+145722,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-21,Sterling ,2,76,2618438,6,8719037,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+146002,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-21,Boulder Crk,1,83,2623477,5,8737314,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+146002,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-21,Boulder Crk,1,83,2623477,5,8737316,6,0,30,1,0,0,0.929,0.908, ,Tee,8,3
+146002,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-21,Boulder Crk,1,83,2623487,15,8737360,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+145759,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-02-21,Boulder City,1,81,2619106,8,8721567,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+145759,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-02-21,Boulder City,1,81,2619107,9,8721572,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+145765,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-02-21,SterlingGrov,2,81,2619212,6,8721986,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+145802,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-22,Boulder Crk,1,83,2619881,9,8724547,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+145802,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-22,Boulder Crk,1,83,2619887,15,8724577,3,0,35,1,0,0,0.499,0.455, ,Tee,5,3
+145802,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-22,Boulder Crk,1,83,2619890,18,8724591,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+145815,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-22,SterlingGrov,1,78,2620112,6,8725497,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+145815,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-22,SterlingGrov,1,78,2620115,9,8725510,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+145815,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-22,SterlingGrov,1,78,2620118,12,8725526,3,0,26,1,0,0,0.171,0.188, ,Tee,6,4
+145815,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-22,SterlingGrov,1,78,2620119,13,8725530,1,0,19,0,0,0,-0.688,-0.693, ,Tee,3,3
+145832,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-02-20,Glendora,1,38,2620413,1,8726656,3,0,35,1,0,0,0.14,0.158, ,Tee,6,4
+145833,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-02-22,Glendora,1,37,2620431,1,8726694,3,0,50,1,0,0,0.385,0.403, ,Tee,6,4
+145842,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-02-21,boulder city,1,86,2620600,8,8727365,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+145842,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-02-21,boulder city,1,86,2620601,9,8727370,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+145883,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-23,MM,1,41,2621342,12,8729990,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+146059,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-21,Boulder Crk,2,90,2624499,1,8740940,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+146059,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-21,Boulder Crk,2,90,2624503,5,8740961,4,0,20,1,0,0,0.803,0.782, ,Tee,6,3
+146059,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-21,Boulder Crk,2,90,2624511,13,8740998,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+146172,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-25,Morongo ,1,76,2626541,9,8748091,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+146172,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-25,Morongo ,1,76,2626543,11,8748101,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+146172,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-25,Morongo ,1,76,2626545,13,8748112,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+146090,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-02-25,mount medow,1,76,2625069,13,8742914,2,0,25,1,0,0,0.471,0.412, ,Tee,4,3
+146094,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-25,Mountain Mea,1,82,2625129,1,8743044,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+146094,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-02-25,Mountain Mea,1,82,2625139,11,8743092,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+146186,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-02-26,Olivas Links,1,75,2626795,11,8748987,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+146186,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-02-26,Olivas Links,1,75,2626799,15,8749003,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+146184,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-02-26,Links,1,77,2626750,2,8748799,3,0,50,1,0,0,0.264,0.212, ,Tee,5,3
+146282,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-02-26,Glendora,1,66,2628517,5,8755167,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+147119,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-06,Morongo Ch,1,78,2643593,15,8808013,2,0,30,1,0,0,-0.032,-0.025, ,Tee,5,4
+147063,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-06,Morongo,1,77,2642579,9,8804053,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147063,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-06,Morongo,1,77,2642582,12,8804066,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147063,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-06,Morongo,1,77,2642584,14,8804076,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147069,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-06,Morongochamp,1,75,2642687,9,8804378,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+147069,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-06,Morongochamp,1,75,2642689,11,8804386,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147106,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-03-06,Morongo ,1,74,2643351,7,8807005,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147107,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-06,Morongo ,1,90,2643366,4,8807069,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+147107,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-06,Morongo ,1,90,2643373,11,8807106,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+147107,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-06,Morongo ,1,90,2643373,11,8807109,5,0,0,0,0,1,0.0,0.0, ,Tee,8,4
+147107,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-06,Morongo ,1,90,2643376,14,8807122,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147107,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-06,Morongo ,1,90,2643378,16,8807131,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147110,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-06,morongochamp,1,81,2643427,11,8807340,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+147110,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-06,morongochamp,1,81,2643430,14,8807356,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147110,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-06,morongochamp,1,81,2643433,17,8807369,2,0,19,1,0,0,0.013,0.041, ,Tee,5,4
+147503,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-03-10,legacy ,1,77,2650498,8,8832560,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+147503,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-03-10,legacy ,1,77,2650505,15,8832590,2,0,50,1,0,0,1.017,1.028, ,Tee,4,3
+147497,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-10,Legacy,1,89,2650392,10,8832092,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+147501,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-10,the legacy,1,79,2650463,9,8832403,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+147502,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-10,Legacy,1,82,2650489,17,8832522,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+147520,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-10,Legacy,1,84,2650800,4,8833485,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+147520,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-10,Legacy,1,84,2650804,8,8833504,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+147520,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-10,Legacy,1,84,2650809,13,8833530,3,0,30,1,0,0,0.177,0.165, ,Tee,5,3
+147638,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-11,Legacy,1,80,2652928,8,8841440,3,0,30,1,0,0,-1.166,-1.158, ,Tee,7,5
+147638,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-11,Legacy,1,80,2652928,8,8841441,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+147638,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-11,Legacy,1,80,2652931,11,8841454,2,0,0,0,0,2,0.0,0.0, ,Tee,9,8
+147638,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-11,Legacy,1,80,2652931,11,8841457,5,0,0,0,0,2,0.0,0.0, ,Tee,9,5
+147638,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-03-11,Legacy,1,80,2652933,13,8841468,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+147613,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-11,Legacy,1,98,2652471,1,8839568,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+147613,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-11,Legacy,1,98,2652481,11,8839620,2,0,0,0,0,1,0.0,0.0, ,Tee,9,8
+147613,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-11,Legacy,1,98,2652481,11,8839622,4,0,0,0,0,1,0.0,0.0, ,Tee,9,6
+147613,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-11,Legacy,1,98,2652487,17,8839656,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+147621,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-11,Legacy,1,80,2652619,5,8840157,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147621,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-11,Legacy,1,80,2652627,13,8840192,3,0,20,1,0,0,-0.972,-0.972, ,Tee,6,4
+147621,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-11,Legacy,1,80,2652627,13,8840193,4,0,15,1,0,0,-0.952,-0.952, ,Tee,6,3
+147621,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-11,Legacy,1,80,2652627,13,8840194,5,0,10,1,0,0,0.499,0.51, ,Tee,6,2
+147624,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-11,the legacy,1,78,2652678,10,8840374,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147931,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-14,moorpark cc,1,75,2658201,7,8859815,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147931,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-14,moorpark cc,1,75,2658204,10,8859827,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147931,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-14,moorpark cc,1,75,2658206,12,8859839,4,0,25,1,0,0,-0.002,0.016, ,Tee,6,3
+147931,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-14,moorpark cc,1,75,2658208,14,8859847,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+147931,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-14,moorpark cc,1,75,2658208,14,8859850,5,0,18,1,0,0,0.055,0.044, ,Tee,7,3
+147936,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-03-14,moore,1,75,2658301,17,8860215,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+147938,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-14,moorpark cc,1,79,2658322,2,8860305,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+147938,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-14,moorpark cc,1,79,2658327,7,8860327,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147938,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-14,moorpark cc,1,79,2658330,10,8860340,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147938,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-14,moorpark cc,1,79,2658332,12,8860350,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+147938,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-14,moorpark cc,1,79,2658334,14,8860358,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147943,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-14,Moorpark ,1,79,2658411,1,8860657,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+147943,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-14,Moorpark ,1,79,2658412,2,8860662,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+147943,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-14,Moorpark ,1,79,2658428,18,8860731,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+148026,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-03-15,moore,1,72,2659919,15,8866267,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+148031,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-15,moorpark cc,1,75,2660003,9,8866589,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+148031,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-03-15,moorpark cc,1,75,2660012,18,8866626,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+148033,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-15,Moorpark ,1,78,2660034,4,8866726,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+148033,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-15,Moorpark ,1,78,2660042,12,8866763,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+148033,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-15,Moorpark ,1,78,2660048,18,8866789,2,0,20,1,0,0,-0.006,0.018, ,Tee,5,4
+148039,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-15,moorpark cc,1,75,2660153,15,8867193,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+148039,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-03-15,moorpark cc,1,75,2660154,16,8867199,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+148406,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-18,RollingHills,1,76,2666747,3,8890424,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+148602,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-16,LaPlaya,1,77,2670277,5,8902013,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+148602,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-16,LaPlaya,1,77,2670286,14,8902051,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+148602,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-16,LaPlaya,1,77,2670290,18,8902066,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+148602,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-16,LaPlaya,1,77,2670290,18,8902068,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+149190,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-03-25,Glendora CC,1,79,2680861,5,8938990,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+149826,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-03-26,Pacific Grov,1,81,2692309,5,8979505,3,0,0,0,0,2,0.0,0.0, ,Tee,7,5
+149826,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-03-26,Pacific Grov,1,81,2692316,12,8979538,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+149836,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-03-29,UCSC,1,93,2692487,3,8980097,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+149836,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-03-29,UCSC,1,93,2692490,6,8980114,2,0,0,0,0,1,0.0,0.0, ,Tee,10,9
+149836,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-03-29,UCSC,1,93,2692490,6,8980116,4,0,0,0,0,1,0.0,0.0, ,Tee,10,7
+149836,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-03-29,UCSC,1,93,2692492,8,8980129,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+149836,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-03-29,UCSC,1,93,2692498,14,8980158,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+149861,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-03-30,UCSC,1,84,2692946,12,8981865,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+149861,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-03-30,UCSC,1,84,2692949,15,8981879,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+186344,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-03-30,mountain m,1,63,3349549,11,11316861,3,0,25,1,0,0,-0.058,-0.222, ,Tee,6,4
+150220,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-31,MM,1,83,2699400,4,9004621,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+150220,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-03-31,MM,1,83,2699405,9,9004643,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+150549,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-04-04,witch hollow,1,80,2705330,12,9026178,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+150552,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-04-04,witch hollow,1,77,2705379,7,9026385,2,0,0,0,0,2,0.0,0.0, ,Tee,9,8
+150552,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-04-04,witch hollow,1,77,2705379,7,9026387,4,0,0,0,0,2,0.0,0.0, ,Tee,9,6
+150552,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-04-04,witch hollow,1,77,2705385,13,9026411,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+150559,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-04,witch hollow,1,81,2705508,10,9026807,2,0,50,1,0,0,0.067,0.095, ,Tee,5,4
+150574,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-04-02,MM,1,85,2705780,12,9027920,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+150574,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-04-02,MM,1,85,2705783,15,9027934,3,0,25,1,0,0,0.116,0.139, ,Tee,6,4
+150984,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-04-06,MM,1,38,2713162,14,9052977,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+151170,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-04-05,ghost creek,1,47,2716487,9,9064879,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+151306,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-04-09,Mountain Mea,1,81,2718939,13,9073320,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+151344,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-04-10,mountain m,1,71,2719623,13,9075655,2,0,40,1,0,0,0.766,0.776, ,Tee,4,3
+151346,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-05,ghost creek,1,48,2719650,4,9075783,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+151559,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-10,Mount Meadow,1,82,2723489,9,9089292,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+151559,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-10,Mount Meadow,1,82,2723493,13,9089311,2,0,30,1,0,0,-0.032,-0.025, ,Tee,4,3
+151559,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-10,Mount Meadow,1,82,2723498,18,9089332,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+151410,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-04-10,Mountain Mea,1,73,2720811,13,9079869,2,0,20,1,0,0,0.692,0.685, ,Tee,4,3
+151476,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2022-04-05,ghost creek,1,44,2721995,9,9084152,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+151491,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-04-11,MM,1,88,2722260,4,9084863,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+151491,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-04-11,MM,1,88,2722260,4,9084865,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+151491,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-04-11,MM,1,88,2722268,12,9084902,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+151493,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-04-10,MM,1,72,2722305,13,9085059,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+151560,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-10,Mount Meadow,2,77,2723513,15,9089392,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+152128,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-04-15,champions,1,80,2733725,3,9125957,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+152720,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-15,Sanctuary,1,73,2744365,5,9164262,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+153934,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-24,Morongo Ch,1,83,2766213,1,9240053,3,0,30,1,0,0,0.228,0.245, ,Tee,5,3
+153934,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-24,Morongo Ch,1,83,2766218,6,9240076,4,0,0,0,0,2,0.0,0.0, ,Tee,7,4
+153934,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-24,Morongo Ch,1,83,2766222,10,9240094,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+153954,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-04-24,Morongo,1,83,2766583,11,9241521,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+154139,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-04-24,morongochamp,1,79,2769918,16,9254026,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+154064,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-04-23,Morongo ,1,81,2768563,11,9249295,3,0,0,0,0,1,0.0,0.0, ,Tee,8,6
+154318,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-04-25,morongochamp,1,72,2773139,15,9265626,2,0,22,1,0,0,-0.112,-0.098, ,Tee,4,3
+154176,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-25,Morongo Ch,1,76,2770579,11,9256191,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+154181,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-04-25,Morongo ,1,78,2770665,7,9256575,3,0,35,1,0,0,0.809,0.817, ,Tee,5,3
+154300,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-04-26,Morongo ,1,76,2772814,14,9264390,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+154315,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-04-26,Morongo Ch,1,76,2773080,10,9265376,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+154409,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-04-26,morongochamp,1,75,2774778,16,9271611,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+157542,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-05-12,Bay Oaks,1,76,2831155,17,9470322,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+162213,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-05-27,SoulePark,1,74,2915221,5,9766339,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+165364,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-05-28,Bolingbrook,1,38,2971940,6,9963531,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+165365,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-06-07,Wedgewood,1,66,2971963,11,9963588,3,0,50,1,0,0,0.284,0.291, ,Tee,6,4
+168476,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-06-24,Bolingbrook,1,73,3027943,11,10163276,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+168737,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-06-25,Cog Hill #3,1,75,3032639,9,10180644,2,0,30,1,0,0,-0.032,-0.025, ,Tee,5,4
+174247,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-07-14,Bolingbrook,1,39,3131803,11,10534654,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+174247,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-07-14,Bolingbrook,1,39,3131807,15,10534672,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+174899,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-07-19,Bolingbrook,1,37,3143537,9,10578203,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+180057,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-08-08,NormandyShor,1,73,3236388,16,10912481,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+180150,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-08-10,Miami Beach,1,74,3238053,7,10918230,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+180150,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-08-10,Miami Beach,1,74,3238062,16,10918268,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+182995,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-08-14,Sanctuary,1,71,3289261,5,11102209,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+184394,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-08-27,Glendora Cc,1,41,3314445,7,11190383,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+184513,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-08-28,Glendora Cc,1,39,3316582,2,11199003,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+185464,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-08-28,Glendora CC,1,39,3333703,5,11258613,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+185543,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-02,losSerronosS,1,74,3335130,10,11263264,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+185808,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-09-03,Glendora CC,1,35,3339891,1,11280780,3,0,40,1,0,0,0.777,0.788, ,Tee,5,3
+185987,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-02,Los sorrenos,1,20,3343113,1,11293096,3,0,0,0,0,1,0.0,0.0, ,Tee,3,1
+186167,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-09-04,Morongo Cham,1,80,3346363,11,11305356,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+186167,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-09-04,Morongo Cham,1,80,3346366,14,11305372,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+186167,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-09-04,Morongo Cham,1,80,3346368,16,11305382,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+186103,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-09-04,Morongo Ch,1,80,3345211,11,11300735,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+186103,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-09-04,Morongo Ch,1,80,3345214,14,11300749,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+186103,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-09-04,Morongo Ch,1,80,3345216,16,11300757,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+186277,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-04,morongochamp,1,77,3348334,2,11312634,2,0,30,1,0,0,0.55,0.55, ,Tee,4,3
+186277,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-04,morongochamp,1,77,3348343,11,11312675,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+186112,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-02,Sorranos,1,83,3345380,18,11301453,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+193897,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2022-09-04,Champions,1,92,3485467,11,11805894,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+193897,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2022-09-04,Champions,1,92,3485470,14,11805910,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+193897,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2022-09-04,Champions,1,92,3485472,16,11805923,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+186128,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-09-04,Morongo,1,90,3345661,11,11302591,3,0,0,0,0,1,0.0,0.0, ,Tee,8,6
+186129,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-09-02,los serran s,1,39,3345685,17,11302660,2,0,25,1,0,0,0.63,0.641, ,Tee,4,3
+186130,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-09-04,Morongo,1,76,3345700,14,11302723,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+186154,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-09-04,Morango,1,91,3346121,3,11304329,3,0,27,1,0,0,-0.931,-0.931, ,Tee,6,4
+186154,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-09-04,Morango,1,91,3346121,3,11304330,4,0,22,1,0,0,0.116,0.133, ,Tee,6,3
+186154,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-09-04,Morango,1,91,3346125,7,11304350,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+186154,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-09-04,Morango,1,91,3346127,9,11304362,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+186156,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-04,Morongo,1,78,3346170,16,11304559,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+186160,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-04,Morongo,1,95,3346227,1,11304809,3,0,0,0,0,1,0.0,0.0, ,Tee,8,6
+186160,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-04,Morongo,1,95,3346235,9,11304850,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+186160,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-04,Morongo,1,95,3346237,11,11304862,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+186160,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-04,Morongo,1,95,3346238,12,11304867,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+186160,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-04,Morongo,1,95,3346240,14,11304878,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+186160,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-04,Morongo,1,95,3346240,14,11304880,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+186160,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-04,Morongo,1,95,3346242,16,11304889,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+186162,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-04,Morongochamp,1,79,3346265,3,11304983,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+186162,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-04,Morongochamp,1,79,3346266,4,11304988,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+186390,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-05,losSerronosS,1,74,3350382,16,11320076,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+186409,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-05,Los Serranos,1,85,3350724,16,11321495,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+186432,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-05,Sorranos,1,81,3351124,2,11323093,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+186432,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-05,Sorranos,1,81,3351140,18,11323161,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+186433,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-09-05,LS - North,1,77,3351156,16,11323234,3,0,32,1,0,0,0.813,0.817, ,Tee,5,3
+186569,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-09-06,los serran s,1,77,3353596,8,11332454,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+187765,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-09-12,Olivias Link,1,70,3375108,10,11410089,3,0,44,1,0,0,0.438,0.455, ,Tee,5,3
+187787,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-09-12,Olivas Links,1,71,3375501,7,11411573,3,0,20,1,0,0,0.44,0.444, ,Tee,5,3
+187795,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-12,olivas links,1,78,3375654,16,11412150,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+187811,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-12,olivas links,2,74,3375930,4,11413158,3,0,50,1,0,0,0.416,0.403, ,Tee,7,5
+187809,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-09-12,Links,1,73,3375891,1,11413000,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+187830,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-09-12,Olivas Links,1,73,3376280,12,11414520,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+187816,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-09-12,Olivas Links,2,72,3376031,15,11413538,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+187817,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-09,Mountain Mea,1,65,3376037,3,11413565,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+187817,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-09,Mountain Mea,1,65,3376046,12,11413610,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+187828,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-12,Olivas Links,1,73,3376234,2,11414333,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+187828,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-12,Olivas Links,1,73,3376241,9,11414360,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+187829,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-12,Olivas Links,2,76,3376261,11,11414444,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+187829,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-12,Olivas Links,2,76,3376264,14,11414455,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+187947,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-09-13,Olivas Links,1,76,3378386,12,11421778,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+187947,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-09-13,Olivas Links,1,76,3378388,14,11421789,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+188139,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-09-11,Glendora,1,83,3381844,14,11434087,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+188796,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-09,Glendora,1,92,3393658,2,11474707,2,0,32,1,0,0,0.437,0.397, ,Tee,5,4
+188796,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-09,Glendora,1,92,3393659,3,11474713,3,0,0,0,1,1,0.0,0.0, ,Tee,8,6
+188796,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-09,Glendora,1,92,3393661,5,11474726,3,0,45,1,0,0,0.062,0.07, ,Tee,6,4
+188796,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-09,Glendora,1,92,3393663,7,11474736,2,0,28,1,0,0,0.076,0.014, ,Tee,5,4
+188796,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-09-09,Glendora,1,92,3393673,17,11474781,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+189204,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-09-19,Redlands CC,1,72,3401014,14,11501951,2,0,43,1,0,0,0.893,0.904, ,Tee,4,3
+189219,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-09-19,Redlands CC,2,77,3401271,1,11502694,2,0,43,1,0,0,-0.808,-0.808, ,Tee,5,4
+189219,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-09-19,Redlands CC,2,77,3401271,1,11502695,3,0,30,1,0,0,0.566,0.57, ,Tee,5,3
+189212,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-09-19,Red,1,69,3401150,6,11502287,3,0,20,1,0,0,0.612,0.62, ,Tee,5,3
+189213,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-09-19,Red,2,67,3401166,4,11502346,2,0,50,1,0,0,0.385,0.403, ,Tee,4,3
+189249,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-19,redlands cc,1,75,3401821,11,11504822,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+189253,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-19,Redlands,2,82,3401883,1,11505075,3,0,40,1,0,0,0.142,-0.03, ,Tee,5,3
+189253,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-19,Redlands,2,82,3401887,5,11505091,2,0,30,1,0,0,0.818,0.811, ,Tee,4,3
+189253,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-19,Redlands,2,82,3401899,17,11505147,3,0,25,1,0,0,0.472,0.47, ,Tee,4,2
+189355,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-09-20,Redlands CC,1,69,3403724,6,11511967,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+189355,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-09-20,Redlands CC,1,69,3403727,9,11511981,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+190033,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-09-23,lossronosN,1,71,3415925,3,11555158,3,0,0,0,0,2,0.0,0.0, ,Tee,7,5
+190216,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-09-23,LS North,1,82,3419223,7,11566923,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+191612,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-10-02,Glendora Cc,1,75,3444358,14,11659413,3,0,30,1,0,0,0.88,0.87, ,Tee,5,3
+191613,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-30,Los Serranos,1,78,3444364,2,11659437,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+191613,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-30,Los Serranos,1,78,3444368,6,11659456,2,0,30,1,0,0,0.0,0.014, ,Tee,4,3
+191613,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-09-30,Los Serranos,1,78,3444371,9,11659467,2,0,40,1,0,0,0.813,0.826, ,Tee,4,3
+192907,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-10-09,los serran s,1,79,3467672,18,11742718,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+192946,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-10-10,Los sorrenos,1,77,3468359,3,11745273,3,0,20,1,0,0,0.913,0.882, ,Tee,5,3
+194184,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-10-15,PantherLake,1,73,3490627,5,11825822,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+194184,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-10-15,PantherLake,1,73,3490640,18,11825875,3,0,50,1,0,0,0.882,0.886, ,Tee,5,3
+193733,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-10-15,Glendora Cc,1,76,3482514,10,11794918,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+193733,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-10-15,Glendora Cc,1,76,3482520,16,11794944,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+193733,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-10-15,Glendora Cc,1,76,3482521,17,11794949,2,0,50,1,0,0,0.15,0.158, ,Tee,5,4
+193820,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-10-15,Glendora,1,77,3484072,2,11800885,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+193820,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-10-15,Glendora,1,77,3484075,5,11800898,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+193820,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-10-15,Glendora,1,77,3484076,6,11800904,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+193898,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lomb,2022-10-16,Baytowne FL,1,80,3485483,9,11805973,2,0,0,0,0,1,0.0,0.0, ,Tee,9,8
+193898,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lomb,2022-10-16,Baytowne FL,1,80,3485483,9,11805975,4,0,0,0,0,1,0.0,0.0, ,Tee,9,6
+193898,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lomb,2022-10-16,Baytowne FL,1,80,3485484,10,11805982,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+194065,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lomb,2022-10-17,Baytowne FL,1,81,3488485,5,11817832,4,0,0,0,0,2,0.0,0.0, ,Tee,8,5
+194065,omlz2022@mymail.Pomona.edu,Ottavia Lombardo,Ottavia Lomb,2022-10-17,Baytowne FL,1,81,3488496,16,11817881,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+194132,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2022-10-17,Baytowne,1,78,3489702,16,11822402,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+194270,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2022-10-15,porter valle,1,71,3492185,15,11831272,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+194405,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2022-10-17,Marbella,1,17,3494602,2,11838999,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+195112,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-10-15,Glendora,1,76,3507331,5,11884906,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+195112,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-10-15,Glendora,1,76,3507331,5,11884907,5,0,0,0,0,1,0.0,0.0, ,Tee,7,3
+195146,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2022-10-23,VeteransMem,1,67,3507953,15,11887469,3,0,35,1,0,0,1.11,1.079, ,Tee,4,2
+195116,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2022-10-07,Glendora,1,44,3507400,2,11885188,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+195130,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-10-23,Veterans Mem,1,78,3507664,14,11886189,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+195134,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-10-23,Vets,1,76,3507738,16,11886510,2,0,0,0,0,2,0.0,0.0, ,Tee,8,7
+195139,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2022-10-23,Veterans,1,79,3507817,5,11886856,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+195150,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2022-10-23,Veterans Mem,1,72,3508019,9,11887718,2,0,35,1,0,0,0.514,0.489, ,Tee,5,4
+195254,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-10-23,Veterans M.,1,75,3509890,8,11894505,3,0,40,1,0,0,1.124,1.095, ,Tee,5,3
+195254,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2022-10-23,Veterans M.,1,75,3509893,11,11894517,2,0,50,1,0,0,0.284,0.291, ,Tee,4,3
+195367,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-10-24,Wine Valley,1,80,3511919,3,11902409,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+195367,tlee@students.pitzer.edu,Tucker Lee,tucker  Lee,2022-10-24,Wine Valley,1,80,3511925,9,11902433,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+197173,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-10-24,Wine Valley,1,78,3544409,3,12020484,5,0,0,0,0,1,0.0,0.0, ,Tee,8,4
+197438,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2022-11-06,Glendora,1,36,3549185,9,12037421,3,0,15,1,0,0,0.373,0.367, ,Tee,5,3
+199929,John.Wurzer@pomona.edu,John Wurzer,John Wurzer,2022-12-02,RLQ Jones,1,79,3594020,6,12197394,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+199929,John.Wurzer@pomona.edu,John Wurzer,John Wurzer,2022-12-02,RLQ Jones,1,79,3594032,18,12197443,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+199929,John.Wurzer@pomona.edu,John Wurzer,John Wurzer,2022-12-02,RLQ Jones,1,79,3594032,18,12197446,5,0,0,0,0,1,0.0,0.0, ,Tee,8,4
+200204,John.Wurzer@pomona.edu,John Wurzer,John Wurzer,2022-12-03,PGA WEST GN,1,75,3598966,2,12215073,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+200204,John.Wurzer@pomona.edu,John Wurzer,John Wurzer,2022-12-03,PGA WEST GN,1,75,3598975,11,12215108,3,0,40,1,0,0,0.228,0.215, ,Tee,6,4
+200204,John.Wurzer@pomona.edu,John Wurzer,John Wurzer,2022-12-03,PGA WEST GN,1,75,3598980,16,12215131,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+204933,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-10-10,Sorranos,1,85,3683986,8,12516645,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+204933,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2022-10-10,Sorranos,1,85,3683990,12,12516663,2,0,38,1,0,0,0.384,0.39, ,Tee,4,3
+206275,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-01-29,Mtn. Meadows,1,79,3708149,15,12602682,2,0,0,0,0,1,0.0,0.0, ,Tee,9,8
+206275,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-01-29,Mtn. Meadows,1,79,3708149,15,12602684,4,0,0,0,0,1,0.0,0.0, ,Tee,9,6
+212554,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-01-27,Mountain M,1,52,3821146,8,13001959,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+207112,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-02-03,El Dorado,1,77,3723200,18,12654331,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+206701,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-02-03,El dorado,1,82,3715791,7,12629008,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+206701,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-02-03,El dorado,1,82,3715799,15,12629044,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+206909,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2023-02-04,El Dorado,1,89,3719535,7,12641249,4,0,9,1,0,0,0.407,0.417, ,Tee,6,3
+206909,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2023-02-04,El Dorado,1,89,3719546,18,12641297,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+206955,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-02-04,eldo,1,89,3720364,8,12644188,3,0,35,1,0,0,-0.095,-0.087, ,Tee,6,4
+207010,tlee@students.pitzer.edu,Tucker Lee,Tucke Lee,2023-02-03,eldo,1,74,3721360,14,12647852,4,0,35,1,0,0,-0.028,-0.031, ,Tee,7,4
+207011,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-02-04,MM,1,70,3721379,15,12647927,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+207027,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-02-05,Mtn. Meadows,1,80,3721661,9,12648966,2,0,40,1,0,0,0.129,-0.04, ,Tee,4,3
+207027,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-02-05,Mtn. Meadows,1,80,3721665,13,12648984,2,0,40,1,0,0,0.184,0.059, ,Tee,4,3
+207096,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2023-02-05,MM,1,95,3722905,11,12653457,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+207096,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2023-02-05,MM,1,95,3722909,15,12653474,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+207096,rkwa2020@mymail.pomona.edu,Ray Winter,Ray Winter,2023-02-05,MM,1,95,3722910,16,12653481,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+207097,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-02-05,MM,1,95,3722926,14,12653568,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+207103,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-02-04,Mountain M,1,75,3723028,8,12653853,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+207103,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-02-04,Mountain M,1,75,3723033,13,12653874,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+207137,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-02-04,Mount Meadow,1,74,3723644,12,12655790,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+207729,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-02-04,MM,1,85,3734303,15,12692234,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+207956,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-02-11,El Dorado,1,72,3738382,8,12707038,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+207956,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-02-11,El Dorado,1,72,3738392,18,12707078,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+207860,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-02-11,eldo,1,78,3736653,7,12700575,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+207864,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-02-11,El Dorado,1,80,3736736,18,12700918,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+207868,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-02-11,El Dorado,1,84,3736797,7,12701175,3,0,46,1,0,0,-0.578,-0.578, ,Tee,7,5
+207868,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-02-11,El Dorado,1,84,3736797,7,12701176,4,0,12,1,0,0,-0.136,-0.261, ,Tee,7,4
+207876,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-02-11,El Dorado LB,1,84,3736947,13,12701786,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+208011,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-02-12,El Dorado,1,83,3739382,18,12710934,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+208044,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-02-12,eldo,1,78,3739966,8,12713226,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+208121,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-02-12,eldo,1,79,3741357,13,12718315,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+208121,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-02-12,eldo,1,79,3741362,18,12718337,3,0,25,1,0,0,0.106,0.094, ,Tee,5,3
+208179,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-02-12,Glendora CC,1,77,3742395,7,12721985,2,0,25,1,0,0,0.29,0.273, ,Tee,4,3
+208299,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-02-14,Glendora Cc,1,40,3744555,7,12729680,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+208616,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-02-17,Mount Meadow,1,62,3750263,9,12749297,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+209015,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-02-19,Mount Meadow,1,74,3757439,3,12775300,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+209015,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-02-19,Mount Meadow,1,74,3757443,7,12775319,2,0,48,1,0,0,0.509,0.526, ,Tee,4,3
+209485,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-02-21,Glendora,1,46,3765907,11,12805533,2,0,50,1,0,0,0.671,0.647, ,Tee,3,2
+210327,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-02-26,Los Serranos,1,76,3781058,6,12857673,2,0,25,1,0,0,1.045,1.006, ,Tee,4,3
+210223,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-02-26,LosSerranos,1,76,3779198,18,12850819,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+210803,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-03-02,Glendora CC,1,81,3789634,14,12888497,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+211014,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-03-03,Mtn. Meadows,1,47,3793419,1,12901688,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+211519,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-03-04,San dimas,1,79,3802522,14,12934056,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+211519,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-03-04,San dimas,1,79,3802523,15,12934063,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+211519,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-03-04,San dimas,1,79,3802523,15,12934061,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+260655,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2023-03-04,SD canyon,1,86,4686839,9,16116149,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+211497,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-03-04,San Dimas,1,74,3802126,14,12932503,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211600,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-06,WhiteBluffN,1,76,3803972,6,12939649,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211600,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-06,WhiteBluffN,1,76,3803982,16,12939691,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+211514,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-06,Whitebluffs,1,86,3802430,12,12933656,3,0,18,1,0,0,0.427,0.431, ,Tee,6,4
+211517,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-04,san dimas,1,75,3802484,12,12933889,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+211534,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-06,White BluffN,1,85,3802780,2,12934961,2,0,0,0,0,2,0.0,0.0, ,Tee,11,10
+211534,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-06,White BluffN,1,85,3802780,2,12934963,4,0,0,0,0,2,0.0,0.0, ,Tee,11,8
+211534,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-06,White BluffN,1,85,3802780,2,12934965,6,0,0,0,0,2,0.0,0.0, ,Tee,11,6
+211534,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-06,White BluffN,1,85,3802781,3,12934972,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+211534,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-06,White BluffN,1,85,3802792,14,12935021,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211531,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-06,white,1,80,3802732,8,12934753,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211531,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-06,white,1,80,3802738,14,12934780,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211531,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-06,white,1,80,3802739,15,12934785,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211535,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-06,White Bluffn,1,79,3802807,11,12935084,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+211535,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-06,White Bluffn,1,79,3802809,13,12935096,3,0,30,1,0,0,0.041,-0.083, ,Tee,5,3
+211535,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-06,White Bluffn,1,79,3802810,14,12935100,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+211670,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-07,white,1,79,3805230,4,12944390,2,0,0,0,1,1,0.0,0.0, ,Tee,5,4
+211670,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-07,white,1,79,3805234,8,12944408,3,0,20,1,0,0,0.637,0.64, ,Tee,5,3
+211670,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-07,white,1,79,3805240,14,12944437,3,0,50,1,0,0,0.173,0.081, ,Tee,7,5
+211672,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-07,White BluffN,1,76,3805268,6,12944558,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211693,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-07,White Bluffn,1,81,3805642,2,12945971,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+211693,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-07,White Bluffn,1,81,3805644,4,12945981,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+211693,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-07,White Bluffn,1,81,3805648,8,12946000,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+212631,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-13,Moorpark,1,73,3822528,4,13006906,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+212631,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-13,Moorpark,1,73,3822538,14,13006945,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+212632,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-13,Moorpark,2,70,3822551,9,13006997,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+212633,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-03-07,Whitney,1,78,3822562,2,13007043,3,0,25,1,0,0,-0.129,-0.13, ,Tee,6,4
+212648,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-13,moore,1,76,3822836,6,13007946,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+212650,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-13,Moorpark C/R,2,77,3822875,9,13008104,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+212655,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-13,moorpark cc,1,74,3822969,13,13008388,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+212655,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-13,moorpark cc,1,74,3822970,14,13008393,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+212704,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-03-14,canyon/ridge,1,82,3823856,18,13011927,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+212705,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-03-14,canyon/ridge,2,83,3823866,10,13011973,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+212705,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-03-14,canyon/ridge,2,83,3823869,13,13011988,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+212765,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,1,89,3824942,6,13015843,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+212765,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,1,89,3824943,7,13015849,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+212765,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,1,89,3824950,14,13015883,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+212765,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,1,89,3824950,14,13015885,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+212765,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,1,89,3824953,17,13015900,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+212766,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,2,83,3824955,1,13015911,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+212766,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,2,83,3824968,14,13015968,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+212766,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,2,83,3824969,15,13015974,2,0,32,1,0,0,0.174,0.203, ,Tee,4,3
+212766,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-03-13,moorpark cc,2,83,3824971,17,13015985,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+213487,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-17,Jekyll IndMo,1,77,3837946,14,13063089,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+213330,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-18,Jekyll IndMo,1,77,3835123,17,13052334,3,0,25,1,0,0,0.357,0.313, ,Tee,5,3
+213490,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-03-18,Indian Mound,1,76,3838000,14,13063280,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+213500,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-19,Jekyll IndMo,1,83,3838170,4,13063858,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+213500,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-19,Jekyll IndMo,1,83,3838180,14,13063903,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+213500,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-19,Jekyll IndMo,1,83,3838181,15,13063908,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+213500,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-03-19,Jekyll IndMo,1,83,3838183,17,13063917,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+213635,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-03-19,Glendora Cc,1,76,3840603,7,13073071,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+213757,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-03-20,Mtn. Meadows,1,36,3842801,9,13080480,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+214806,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-26,antelope,1,71,3861681,7,13148736,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+214809,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-03-26,antelope,3,74,3861740,12,13148885,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+214813,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-26,antelope,1,73,3861803,3,13149158,3,0,20,1,0,0,0.424,0.424, ,Tee,5,3
+214813,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-26,antelope,1,73,3861807,7,13149173,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+214813,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-26,antelope,1,73,3861812,12,13149193,3,0,50,1,0,0,0.929,0.938, ,Tee,5,3
+214814,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-26,antelope,2,71,3861825,7,13149243,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+214814,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-26,antelope,2,71,3861829,11,13149258,2,0,12,1,0,0,0.317,0.304, ,Tee,5,4
+214815,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-26,AntelopeHill,1,76,3861843,7,13149317,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+214815,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-26,AntelopeHill,1,76,3861845,9,13149325,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+214816,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-03-26,AntelopeHill,2,73,3861871,17,13149432,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+214854,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-26,Antelope H S,1,72,3862543,5,13152070,2,0,18,1,0,0,0.977,0.938, ,Tee,4,3
+214854,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-26,Antelope H S,1,72,3862545,7,13152079,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+214855,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-26,Antelope H S,2,70,3862559,3,13152134,3,0,44,1,0,0,0.823,0.832, ,Tee,5,3
+214855,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-26,Antelope H S,2,70,3862562,6,13152146,3,0,50,1,0,0,0.493,0.481, ,Tee,5,3
+214857,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-03-26,Antelope Hil,2,77,3862597,5,13152283,2,0,50,1,0,0,-1.0,-1.0, ,Tee,6,5
+214857,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-03-26,Antelope Hil,2,77,3862597,5,13152284,3,0,50,1,0,0,-0.006,0.051, ,Tee,6,4
+214858,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-03-26,Antelope,1,74,3862627,17,13152411,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+214923,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-03-27,antelope,1,77,3863797,17,13156888,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+214926,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-27,Antelope H S,1,69,3863837,3,13157054,3,0,50,1,0,0,1.079,1.082, ,Tee,4,2
+214926,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-27,Antelope H S,1,69,3863849,15,13157099,3,0,40,1,0,0,0.498,0.474, ,Tee,6,4
+214945,cjem2022@mymail.pomona.edu,Colin Elias,Colin Elias,2023-03-27,Antelope Hil,1,74,3864182,6,13158494,3,0,38,1,0,0,-0.03,-0.024, ,Tee,5,3
+215163,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-28,Glendora CC,1,73,3868112,12,13172520,4,0,13,1,0,0,0.446,0.455, ,Tee,6,3
+215163,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-03-28,Glendora CC,1,73,3868118,18,13172542,3,0,44,1,0,0,0.274,0.179, ,Tee,6,4
+215750,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-04-01,Mtn Meadows,1,77,3878679,13,13210096,2,0,24,1,0,0,1.119,1.078, ,Tee,4,3
+215992,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-04-01,Mountain Mea,1,69,3883033,11,13226331,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+215978,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-01,mountain m,1,71,3882783,13,13225351,2,0,40,1,0,0,0.273,0.259, ,Tee,4,3
+216060,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-04-02,Mountain M,1,67,3884249,3,13231148,2,0,44,1,0,0,0.729,0.721, ,Tee,4,3
+215994,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-02,mountain m,1,71,3883072,14,13226487,3,0,15,1,0,0,-0.186,-0.179, ,Tee,5,3
+216778,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2023-04-07,Ironwood gc,1,82,3897186,16,13277131,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+216970,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-07,Ironwood,1,75,3900631,5,13290005,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+217055,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-04-08,Pacific Grov,1,79,3902161,5,13295611,4,0,0,0,1,1,0.0,0.0, ,Tee,7,4
+217057,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-08,Weibring,1,76,3902197,5,13295698,4,0,40,1,0,0,0.111,0.118, ,Tee,7,4
+217068,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-04-08,Monterey,1,81,3902408,18,13296543,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+217253,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-04-08,Pacific Grov,1,79,3905731,11,13308900,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+217649,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-08,wei,1,78,3912860,12,13334780,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+219133,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-04-17,CherokeeRun,1,76,3939568,8,13429303,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+219134,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-04-17,CherokeeRun,2,77,3939582,4,13429363,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+219448,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-18,arnold run,1,77,3945239,9,13449462,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+219326,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,1,83,3943040,6,13441427,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+219326,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,1,83,3943047,13,13441462,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+219327,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,2,79,3943055,3,13441498,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+219327,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,2,79,3943058,6,13441512,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+219327,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,2,79,3943061,9,13441526,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+219328,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,3,79,3943078,8,13441597,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+219328,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,3,79,3943079,9,13441606,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+219328,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-18,CherokeeRun,3,79,3943088,18,13441643,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+219358,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-18,Cherokee run,1,85,3943618,8,13443648,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+219358,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-18,Cherokee run,1,85,3943627,17,13443689,2,0,45,1,0,0,0.671,0.646, ,Tee,4,3
+219359,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-17,Cherokee run,1,78,3943637,9,13443731,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+219359,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-17,Cherokee run,1,78,3943646,18,13443771,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+219332,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-04-17,Cherokee run,1,80,3943150,8,13441825,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+219332,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-04-17,Cherokee run,1,80,3943151,9,13441831,3,0,30,1,0,0,0.763,0.766, ,Tee,5,3
+219333,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-04-17,Cherokee run,2,82,3943165,5,13441893,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+219360,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-17,Cherokee run,2,80,3943650,4,13443790,3,0,0,0,0,1,0.0,0.0, ,Tee,8,6
+219360,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-17,Cherokee run,2,80,3943654,8,13443809,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+219449,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-18,arnold run,2,77,3945254,6,13449526,2,0,16,1,0,0,1.16,1.119, ,Tee,4,3
+219450,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-18,arnold run,3,78,3945268,2,13449585,2,0,35,1,0,0,0.084,-0.08, ,Tee,5,4
+219450,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-18,arnold run,3,78,3945275,9,13449616,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+219450,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-18,arnold run,3,78,3945284,18,13449653,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+220561,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-04-23,Olivias Link,1,73,3965257,11,13521689,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+220568,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-23,Olivas Links,1,78,3965379,7,13522135,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+220570,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-23,Links,1,75,3965411,3,13522276,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+220570,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-23,Links,1,75,3965419,11,13522310,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+220660,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-04-23,Olivas Links,1,75,3967030,2,13528693,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+220660,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-04-23,Olivas Links,1,75,3967039,11,13528730,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+220713,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-04-23,Olivas,1,78,3967989,7,13532133,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+220713,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-04-23,Olivas,1,78,3967989,7,13532135,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+220666,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-23,Olivasss,1,76,3967138,2,13529077,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+220666,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-23,Olivasss,1,76,3967146,10,13529111,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+220666,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-23,Olivasss,1,76,3967147,11,13529117,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+220782,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-04-24,Olivas,1,72,3969240,16,13536438,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+220729,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-04-23,Olivas Links,1,76,3968272,2,13533183,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+220729,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-04-23,Olivas Links,1,76,3968272,2,13533185,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+220774,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-24,Links,1,71,3969086,6,13535921,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+220818,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-04-24,Olivas Links,1,76,3969874,2,13538816,3,0,30,1,0,0,0.013,-0.151, ,Tee,6,4
+220818,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-04-24,Olivas Links,1,76,3969887,15,13538869,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+220818,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-04-24,Olivas Links,1,76,3969888,16,13538875,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+221495,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-04-25,Olivas Links,1,70,3982059,1,13580930,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+221009,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-25,Olivasss,1,71,3973324,14,13551040,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+221009,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-04-25,Olivasss,1,71,3973326,16,13551049,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+221025,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-04-25,Links,1,69,3973607,9,13552228,2,0,38,1,0,0,0.44,0.421, ,Tee,4,3
+221039,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-04-25,Olivas,1,73,3973866,16,13553204,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+221355,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-04-25,Olivas Links,1,72,3979539,1,13571979,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+222399,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-04-25,Olivas Links,1,71,3998334,4,13640419,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+222523,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-04-29,Glendora,1,75,4000568,6,13648458,3,0,46,1,0,0,0.915,0.928, ,Tee,5,3
+224391,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-05-09,Mission Hill,1,87,4034187,1,13767065,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+224433,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-05-09,El Campeon,1,80,4034960,18,13769629,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+224821,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-05-11,Howie-Hills,1,81,4041941,15,13793959,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+224821,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-05-11,Howie-Hills,1,81,4041943,17,13793970,5,0,0,0,0,1,0.0,0.0, ,Tee,8,4
+225141,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-05-12,Mission Hill,1,82,4047696,10,13813296,4,0,30,1,0,0,0.594,0.601, ,Tee,8,5
+225537,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-05-10,El Campeon,1,81,4054829,15,13838607,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+225537,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-05-10,El Campeon,1,81,4054830,16,13838612,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+225538,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-05-11,El Campeon,1,74,4054833,1,13838628,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+225543,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-05-13,Howie-Hills,1,88,4054932,10,13839017,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+225543,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-05-13,Howie-Hills,1,88,4054939,17,13839049,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+226719,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-05-18,Villanueva R,1,82,4076105,15,13915687,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+227488,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-05-20,Sanctuary,1,78,4089942,10,13964138,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+227488,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-05-20,Sanctuary,1,78,4089950,18,13964172,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+228077,ecaa2021@mymail.pomona.edu,Emily Chang,Emily Chang,2023-05-13,El Campeon,1,82,4100541,7,14003815,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+228385,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-05-18,ChampTrace,1,79,4106085,7,14023488,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+228385,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-05-18,ChampTrace,1,79,4106089,11,14023506,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+228385,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-05-18,ChampTrace,1,79,4106096,18,14023536,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+228386,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-05-19,ChampTrace,1,76,4106114,18,14023612,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+229368,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-05-23,AppleTree,1,71,4123781,9,14084022,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+229368,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-05-23,AppleTree,1,71,4123789,17,14084054,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+231795,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-06-03,Wedgewood,1,74,4167444,4,14242423,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+232891,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-07,BlackRock,1,71,4187178,10,14314316,2,0,50,1,0,0,0.589,0.578, ,Tee,5,4
+232891,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-07,BlackRock,1,71,4187182,14,14314332,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+232957,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-07,CanyonLakes,1,64,4188365,9,14318709,3,0,27,1,0,0,1.377,1.355, ,Tee,5,3
+233729,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-06-04,Wedgewood,1,74,4202263,11,14367992,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+233729,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-06-04,Wedgewood,1,74,4202270,18,14368019,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+234870,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-12,AppleTree,1,73,4222795,5,14445068,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+234870,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-12,AppleTree,1,73,4222797,7,14445077,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+234870,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-12,AppleTree,1,73,4222803,13,14445102,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+234927,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-14,HomeCourse,1,74,4223826,10,14449047,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+235994,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-06-10,Finkbine,1,74,4243034,12,14515947,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+235994,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-06-10,Finkbine,1,74,4243037,15,14515960,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+236463,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-19,AppleTree,1,67,4251479,15,14547008,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+236859,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-20,AppleTree,1,73,4258599,7,14572457,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+236859,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-20,AppleTree,1,73,4258599,7,14572459,5,0,25,1,0,0,0.526,0.455, ,Tee,7,3
+236859,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-20,AppleTree,1,73,4258601,9,14572467,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+237242,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-22,AppleTree,1,74,4265493,7,14596244,3,0,15,1,0,0,0.158,0.154, ,Tee,6,4
+237287,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-06-23,MonteCasBlue,1,74,4266308,12,14599406,3,0,40,1,0,0,0.212,0.229, ,Tee,5,3
+238586,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-25,AppleTree,1,69,4289692,14,14684401,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+238629,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-27,WineValley,1,76,4290437,3,14687031,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+238629,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-27,WineValley,1,76,4290438,4,14687037,3,0,20,1,0,0,0.99,0.951, ,Tee,4,2
+238629,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-27,WineValley,1,76,4290441,7,14687048,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+238629,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-27,WineValley,1,76,4290443,9,14687059,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+238842,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-28,WineValley,1,77,4294283,15,14700441,3,0,20,1,0,0,-0.994,-0.994, ,Tee,9,7
+238842,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-28,WineValley,1,77,4294283,15,14700442,4,0,19,1,0,0,-0.902,-0.902, ,Tee,9,6
+238842,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-28,WineValley,1,77,4294283,15,14700443,5,0,8,1,0,0,-0.935,-0.935, ,Tee,9,5
+238842,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-28,WineValley,1,77,4294283,15,14700444,6,0,7,1,0,0,-1.0,-1.0, ,Tee,9,4
+238842,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-06-28,WineValley,1,77,4294283,15,14700445,7,0,7,1,0,0,0.908,0.867, ,Tee,9,3
+241842,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-07-01,Bolingbrook,1,73,4348284,16,14896710,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+240137,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-02,GldMtn-Olym,1,76,4317592,14,14786594,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+240172,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-07-03,RACEBLUE,1,73,4318221,13,14788907,2,0,40,1,0,0,0.455,0.451, ,Tee,5,4
+240759,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-07-04,RACEBLUE,1,76,4328776,2,14827121,3,0,24,1,0,0,0.616,0.627, ,Tee,5,3
+244350,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-17,HomeCourse,1,74,4393408,14,15060675,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+244351,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-18,ChambersBay,1,68,4393425,13,15060743,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+246047,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-07-24,VeneziaBluTo,1,73,4423915,11,15168432,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+246356,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-25,AppleTree,1,69,4429482,16,15188833,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+246367,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-26,BlackRock,1,70,4429670,6,15189434,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+246367,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-26,BlackRock,1,70,4429682,18,15189479,2,0,50,1,0,0,0.357,0.233, ,Tee,5,4
+247766,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-30,AppleTree,1,69,4454853,7,15281542,2,0,40,1,0,0,0.693,0.693, ,Tee,4,3
+247766,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-30,AppleTree,1,69,4454856,10,15281555,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+248030,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-07-31,AppleTree,1,70,4459605,7,15298237,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+253034,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-06,Bolingbrook,1,70,4549670,18,15624363,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+250228,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-08-09,MonteCasBlue,1,76,4499154,10,15441571,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+250252,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-08,AppleTree,1,68,4499583,7,15443009,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+250429,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-09,WineValley,2,74,4502768,6,15454397,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+251794,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-14,ColorodoGC,1,78,4527336,4,15542731,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+251794,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-14,ColorodoGC,1,78,4527348,16,15542783,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+293266,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-05-14,King’s North,1,72,5273815,5,18189841,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+293266,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-05-14,King’s North,1,72,5273825,15,18189880,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+293266,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-05-14,King’s North,1,72,5273826,16,18189887,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+293266,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-05-14,King’s North,1,72,5273828,18,18189895,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+252408,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-17,GldMtnCasc,1,70,4538393,9,15582554,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+252625,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-08-18,MonteCasBlue,1,76,4542297,7,15596823,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+253302,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-20,Sand Hollow,1,68,4554480,4,15642847,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+253303,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-20,Sand Hollow,2,72,4554496,2,15642909,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+253303,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-20,Sand Hollow,2,72,4554499,5,15642922,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+253303,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-20,Sand Hollow,2,72,4554504,10,15642941,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+253796,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-20,Red Sky,1,75,4563386,18,15673801,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+253810,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-22,Wolf creek,1,71,4563628,8,15674605,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+253810,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-08-22,Wolf creek,1,71,4563632,12,15674618,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+253949,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-22,AppleTree,1,69,4566130,8,15683726,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+253949,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-22,AppleTree,1,69,4566135,13,15683746,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+253949,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-22,AppleTree,1,69,4566140,18,15683765,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+253995,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-08-23,AppleTree,1,69,4566957,7,15686256,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+256023,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-08-30,mountain m,1,68,4603457,3,15815855,2,0,35,1,0,0,0.916,0.909, ,Tee,4,3
+256023,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-08-30,mountain m,1,68,4603466,12,15815888,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+256161,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-09-01,MM,1,95,4605947,9,15825139,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+256161,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-09-01,MM,1,95,4605952,14,15825161,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+256305,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-09-01,MM,1,88,4608533,3,15834198,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+256305,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-09-01,MM,1,88,4608534,4,15834208,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+256305,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-09-01,MM,1,88,4608542,12,15834243,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+256305,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-09-01,MM,1,88,4608543,13,15834247,2,0,0,0,0,1,0.0,0.0, ,Tee,9,8
+256305,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-09-01,MM,1,88,4608543,13,15834250,5,0,0,0,0,1,0.0,0.0, ,Tee,9,5
+256305,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-09-01,MM,1,88,4608545,15,15834261,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+256312,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-01,Mtn Mdws,1,78,4608658,2,15834712,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+256312,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-01,Mtn Mdws,1,78,4608666,10,15834745,3,0,30,1,0,0,0.428,0.384, ,Tee,6,4
+256312,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-01,Mtn Mdws,1,78,4608667,11,15834750,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+256312,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-01,Mtn Mdws,1,78,4608669,13,15834761,2,0,20,1,0,0,0.235,0.218, ,Tee,5,4
+256366,rhlq2023@mymail.pomona.edu,Rachel LeMay,Rachel LeMay,2023-09-01,mm,1,77,4609629,1,15838020,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+256689,mloo@students.pitzer.edu,Malia Loo,Malia Loo,2023-09-02,LS North,1,79,4615444,2,15858606,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+256449,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-02,Los Serranos,1,76,4611133,11,15843208,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+256513,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-09-02,Los Serranos,1,84,4612289,15,15847272,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+256650,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-02,LosSerranosS,1,76,4614748,8,15856209,3,0,40,1,0,0,1.454,1.413, ,Tee,4,2
+256650,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-02,LosSerranosS,1,76,4614752,12,15856224,2,0,30,1,0,0,0.228,0.245, ,Tee,5,4
+256771,kjll2023@mymail.pomona.edu,Katelyn Lee,Katelyn Lee,2023-09-03,Costa Mesa,1,86,4616929,11,15864399,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+256771,kjll2023@mymail.pomona.edu,Katelyn Lee,Katelyn Lee,2023-09-03,Costa Mesa,1,86,4616933,15,15864420,4,0,20,1,0,0,0.338,0.289, ,Tee,6,3
+262138,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-03,Costa Mesa,1,78,4713525,1,16211511,3,0,40,1,0,0,1.072,1.051, ,Tee,5,3
+262138,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-03,Costa Mesa,1,78,4713526,2,16211516,3,0,35,1,0,0,0.039,0.046, ,Tee,4,2
+262138,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-03,Costa Mesa,1,78,4713538,14,16211563,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+262138,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-03,Costa Mesa,1,78,4713539,15,16211570,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+256952,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-09-03,mesa linda,1,87,4620184,8,15876519,2,0,17,1,0,0,-0.076,-0.059, ,Tee,5,4
+256952,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-09-03,mesa linda,1,87,4620193,17,15876561,2,0,45,1,0,0,0.297,0.314, ,Tee,3,2
+257283,mloo@students.pitzer.edu,Malia Loo,Malia Loo,2023-09-04,MM,1,81,4626147,13,15898508,2,0,30,1,0,0,0.428,0.384, ,Tee,4,3
+257123,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-03,Costa,1,77,4623256,2,15887844,3,0,20,1,0,0,-0.057,-0.039, ,Tee,6,4
+257123,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-03,Costa,1,77,4623261,7,15887865,2,0,20,1,0,0,0.302,0.258, ,Tee,4,3
+257123,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-03,Costa,1,77,4623262,8,15887869,2,0,50,1,0,0,-0.613,-0.613, ,Tee,5,4
+257123,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-03,Costa,1,77,4623262,8,15887870,3,0,25,1,0,0,0.202,0.191, ,Tee,5,3
+257227,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-04,Mountainmead,1,71,4625133,7,15894879,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+257227,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-04,Mountainmead,1,71,4625139,13,15894904,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+258815,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2023-09-11,Olivas 1,1,71,4653728,18,15996334,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+258870,Ecaa2021@mymail.Pomona.edu,Emily Chang,Emily Chang,2023-09-11,Olivas Links,1,71,4654702,2,15999996,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+258885,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-09-12,Olivas Links,1,74,4654972,2,16001055,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+258885,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-09-12,Olivas Links,1,74,4654981,11,16001091,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+258934,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-09-11,Olivas Links,1,72,4655853,1,16003877,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+258935,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-09-12,Olivas Links,1,74,4655883,13,16003996,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+259040,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-11,Olivas Links,1,78,4657762,2,16011069,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+259040,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-11,Olivas Links,1,78,4657766,6,16011086,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+259040,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-11,Olivas Links,1,78,4657770,10,16011104,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+259041,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-09-11,Olivas Links,2,79,4657790,12,16011191,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+259961,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-09-16,Taconic GC,1,76,4674340,2,16069859,3,0,30,1,0,0,0.566,0.57, ,Tee,5,3
+259904,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2023-09-12,olivas 2,1,70,4673318,6,16066593,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+259904,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2023-09-12,olivas 2,1,70,4673328,16,16066630,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+259993,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-09-17,Taconic,1,75,4674926,12,16072058,3,0,12,1,0,0,0.436,0.445, ,Tee,5,3
+259993,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-09-17,Taconic,1,75,4674930,16,16072075,3,0,15,1,0,0,0.516,0.529, ,Tee,5,3
+259993,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-09-17,Taconic,1,75,4674932,18,16072083,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+259994,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-09-15,Taconic,1,84,4674939,7,16072111,3,0,12,1,0,0,0.469,0.48, ,Tee,6,4
+259994,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-09-15,Taconic,1,84,4674944,12,16072137,3,0,12,1,0,0,0.326,0.314, ,Tee,5,3
+259994,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-09-15,Taconic,1,84,4674945,13,16072141,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+259994,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-09-15,Taconic,1,84,4674948,16,16072154,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+260060,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-09-17,Taconic,1,80,4676124,4,16076839,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+260712,rhlq2023@mymail.pomona.edu,Rachel LeMay,Rachel LeMay,2023-09-16,glendora cc,1,78,4687872,16,16119771,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+260822,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-09-22,Mtn Meadows,1,79,4689847,11,16126391,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+260822,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-09-22,Mtn Meadows,1,79,4689850,14,16126405,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+260822,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-09-22,Mtn Meadows,1,79,4689851,15,16126412,3,0,40,1,0,0,0.129,-0.04, ,Tee,6,4
+261481,rhlq2023@mymail.pomona.edu,Rachel LeMay,Rachel LeMay,2023-09-23,taconic,1,75,4701702,4,16169089,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261488,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-09-17,Glendora,1,81,4701842,18,16169388,7,0,18,1,0,0,0.089,0.106, ,Tee,9,3
+261500,mloo@students.pitzer.edu,Malia Loo,Malia Loo,2023-09-25,Morongo (L),1,76,4702042,2,16170061,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261585,cmct2023@mymail.pomona.edu,Clara Chae,Clara Chae,2023-09-25,Morongo Leng,1,83,4703571,1,16175955,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261585,cmct2023@mymail.pomona.edu,Clara Chae,Clara Chae,2023-09-25,Morongo Leng,1,83,4703577,7,16175983,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261636,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2023-09-24,Taconic1,2,76,4704491,3,16179223,3,0,0,0,0,2,0.0,0.0, ,Tee,7,5
+261660,cmct2023@mymail.pomona.edu,Clara Chae,Clara Chae,2023-09-26,Morongo Leng,1,74,4704922,2,16180772,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+261662,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-09-25,MorongoLegen,1,73,4704969,13,16180929,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261663,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-09-25,MorongoLegen,2,72,4704990,16,16181013,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+261666,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2023-09-26,Morongo Leg,1,75,4705035,7,16181196,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261689,mloo@students.pitzer.edu,Malia Loo,Malia Loo,2023-09-26,Morongo (L),1,84,4705460,18,16182634,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+261823,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-09-27,redland leg,3,73,4707865,11,16191566,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+261823,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-09-27,redland leg,3,73,4707865,11,16191568,4,0,50,1,0,0,0.644,0.604, ,Tee,6,3
+261856,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-09-26,Morongo,1,76,4708449,1,16193574,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261874,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-25,Morongo (L),1,78,4708774,2,16194745,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+261875,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-25,Morongo (L),2,76,4708795,5,16194835,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+261876,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-26,Morongo (L),1,79,4708810,2,16194901,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+261876,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-26,Morongo (L),1,79,4708818,10,16194935,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+261876,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-09-26,Morongo (L),1,79,4708819,11,16194940,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+262209,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-09-29,Mountain M,1,70,4714814,12,16216164,3,0,30,1,0,0,0.613,0.622, ,Tee,5,3
+262207,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-09-29,MM,1,73,4714781,15,16216026,4,0,20,1,0,0,0.102,0.119, ,Tee,6,3
+262455,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-09-29,Mount Meadow,1,75,4719243,13,16232194,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+262580,kjll2023@mymail.pomona.edu,Katelyn Lee,Katelyn Lee,2023-09-17,Los Serranos,1,75,4721495,15,16240472,3,0,12,1,0,0,0.01,0.033, ,Tee,6,4
+262607,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-10-01,Keene Run,1,83,4721981,15,16242308,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+262607,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-10-01,Keene Run,1,83,4721984,18,16242323,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+262618,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-09-30,Glendora,1,72,4722175,11,16243116,2,0,50,1,0,0,0.385,0.403, ,Tee,4,3
+262709,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-10-01,Glendora,1,80,4723812,10,16249378,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+262690,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-29,Mtn Mdws,1,78,4723472,12,16247939,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+262690,sbqz2023@mymail.pomona.edu,Song Bai,Song Bai,2023-09-29,Mtn Mdws,1,78,4723474,14,16247949,2,0,50,1,0,0,1.355,1.324, ,Tee,4,3
+262720,Ecaa2021@mymail.Pomona.edu,Emily Chang,Emily Chang,2023-10-01,Keene Run,1,73,4724013,13,16250047,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+263005,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-10-02,Glendora CC,1,87,4729135,5,16268660,5,0,0,0,0,1,0.0,0.0, ,Tee,8,4
+263005,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-10-02,Glendora CC,1,87,4729137,7,16268669,2,0,25,1,0,0,-0.002,0.016, ,Tee,5,4
+263005,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-10-02,Glendora CC,1,87,4729148,18,16268718,2,0,0,0,0,2,0.0,0.0, ,Tee,8,7
+263008,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-01,Glendora,1,80,4729200,16,16268946,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+263046,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2023-10-02,Keene Run,1,76,4729886,18,16271480,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+263405,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2023-10-06,Keene Trace,1,73,4736339,9,16293274,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+263895,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-10-07,Los Ser,1,71,4745155,5,16324588,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+263895,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-10-07,Los Ser,1,71,4745159,9,16324604,2,0,10,1,0,0,0.468,0.481, ,Tee,4,3
+263699,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-07,LosSerranosS,1,68,4741624,2,16311797,3,0,24,1,0,0,0.126,0.116, ,Tee,5,3
+266434,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-09-17,Glendora,1,98,4790868,16,16486791,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+266434,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-09-17,Glendora,1,98,4790870,18,16486802,2,0,0,0,0,2,0.0,0.0, ,Tee,8,7
+263934,tlee@students.pitzer.edu,Tucker Lee,Tucker KKee,2023-10-07,LosSerranosS,1,73,4745854,2,16327039,3,0,28,1,0,0,0.585,0.594, ,Tee,6,4
+263979,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-10-08,Los Ser,1,75,4746679,17,16330196,2,0,20,1,0,0,0.342,0.324, ,Tee,5,4
+263986,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-10-07,Los sorrenos,1,79,4746794,6,16330651,2,0,25,1,0,0,-0.071,-0.057, ,Tee,5,4
+263986,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-10-07,Los sorrenos,1,79,4746795,7,16330656,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+263989,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-10-08,Los sorrenos,1,73,4746847,5,16330852,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+263989,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2023-10-08,Los sorrenos,1,73,4746856,14,16330888,2,0,50,1,0,0,0.882,0.886, ,Tee,4,3
+264077,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-10-07,LosSerranosS,1,77,4748434,8,16336704,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+264077,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-10-07,LosSerranosS,1,77,4748437,11,16336716,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+265464,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-10-15,Carlton,1,74,4773405,13,16425876,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+265111,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-15,raven,1,79,4767039,1,16402099,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+265111,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-15,raven,1,79,4767039,1,16402102,5,0,40,1,0,0,0.844,0.855, ,Tee,7,3
+265111,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-15,raven,1,79,4767043,5,16402120,3,0,19,1,0,0,0.631,0.634, ,Tee,5,3
+265111,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-15,raven,1,79,4767053,15,16402159,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+265137,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-15,DestinFLRave,1,70,4767509,3,16403667,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+265257,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-16,raven,1,73,4769673,7,16412033,4,0,0,0,0,2,0.0,0.0, ,Tee,7,4
+265258,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-15,SandestinRav,1,74,4769687,3,16412090,3,0,0,0,0,2,0.0,0.0, ,Tee,7,5
+265258,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-15,SandestinRav,1,74,4769691,7,16412105,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+265260,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-10-15,raven,1,76,4769738,18,16412298,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+265260,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-10-15,raven,1,76,4769738,18,16412300,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+265302,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-16,SandestinRav,1,77,4770480,4,16414942,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+265302,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-16,SandestinRav,1,77,4770483,7,16414954,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+265302,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-16,SandestinRav,1,77,4770485,9,16414963,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+265302,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-16,SandestinRav,1,77,4770487,11,16414974,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+265435,rhlq2023@mymail.pomona.edu,Rachel LeMay,Rachel LeMay,2023-10-15,baytowne,1,76,4772877,7,16423816,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+265437,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2023-10-16,Baytown,1,76,4772914,8,16423987,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+265469,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-17,raven,1,75,4773484,2,16426220,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+265469,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-17,raven,1,75,4773491,9,16426248,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+265471,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-16,DestinFLRave,1,81,4773520,2,16426368,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+265471,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-16,DestinFLRave,1,81,4773525,7,16426387,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+265471,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-16,DestinFLRave,1,81,4773526,8,16426396,3,0,23,1,0,0,0.665,0.668, ,Tee,5,3
+265471,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-16,DestinFLRave,1,81,4773527,9,16426400,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+265471,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-16,DestinFLRave,1,81,4773527,9,16426402,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+265471,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-16,DestinFLRave,1,81,4773536,18,16426439,3,0,30,1,0,0,-1.1,-1.102, ,Tee,6,4
+265471,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-16,DestinFLRave,1,81,4773536,18,16426440,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+265472,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-17,DestinFLRave,1,74,4773545,9,16426477,3,0,10,1,0,0,0.643,0.636, ,Tee,4,2
+265472,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-17,DestinFLRave,1,74,4773551,15,16426500,2,0,39,1,0,0,0.217,0.139, ,Tee,5,4
+265480,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-17,SandestinRav,1,76,4773689,9,16426897,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+265480,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-17,SandestinRav,1,76,4773691,11,16426908,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+265594,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-10-17,raven,1,79,4775741,9,16433869,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+265594,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2023-10-17,raven,1,79,4775741,9,16433872,5,0,0,0,0,1,0.0,0.0, ,Tee,7,3
+265625,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-10-16,Raven Destin,2,75,4776301,11,16435772,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+265625,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-10-16,Raven Destin,2,75,4776305,15,16435789,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+266453,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2023-10-23,MM,1,93,4791198,4,16487987,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+267346,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-29,boulder cree,1,80,4807279,11,16543876,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+267346,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-29,boulder cree,1,80,4807285,17,16543903,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+267439,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-29,BoulderCreek,1,77,4808952,10,16549958,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+267439,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2023-10-29,BoulderCreek,1,77,4808960,18,16549992,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+267507,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-10-31,boulder cree,1,77,4810180,14,16554815,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+267532,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-31,BoulderCreek,1,68,4810630,14,16556295,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+267532,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-10-31,BoulderCreek,1,68,4810630,14,16556297,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+267540,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-10-29,Boulder C.,1,77,4810761,1,16556834,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+267541,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-10-30,Boulder C.,1,77,4810795,17,16556979,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+267542,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2023-10-31,Boulder C.,1,70,4810801,5,16557004,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+267544,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-10-31,Boulder Cree,1,84,4810838,6,16557158,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+267545,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-10-30,Boulder Cree,1,76,4810861,11,16557260,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+267546,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2023-10-29,Boulder Cree,1,82,4810884,16,16557359,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+271963,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2023-12-13,Glendora Cc,1,49,4890383,9,16831973,4,0,41,1,0,0,1.273,1.234, ,Tee,5,2
+272580,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-20,terra lago,1,76,4901485,5,16868656,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+272580,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-20,terra lago,1,76,4901485,5,16868657,4,0,40,1,0,0,0.727,0.734, ,Tee,6,3
+272580,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-20,terra lago,1,76,4901494,14,16868695,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+272649,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-21,terra lago,1,71,4902731,9,16873051,3,0,26,1,0,0,0.924,0.895, ,Tee,4,2
+272649,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-21,terra lago,1,71,4902740,18,16873083,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+272769,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-22,terra lago,1,71,4904887,5,16880560,4,0,22,1,0,0,0.651,0.654, ,Tee,6,3
+272769,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-22,terra lago,1,71,4904891,9,16880574,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+273522,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-12-29,SterlingGrov,1,75,4918441,5,16926747,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+273522,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-12-29,SterlingGrov,1,75,4918445,9,16926764,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+273522,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-12-29,SterlingGrov,1,75,4918449,13,16926782,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+273599,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2023-12-31,hokuria,1,72,4919826,4,16931821,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+273784,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2024-01-02,kapolei,1,83,4923153,1,16943072,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+273779,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-01-02,kapolei,1,70,4923076,14,16942794,3,0,32,1,0,0,0.073,0.089, ,Tee,5,3
+273825,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-12-30,SterlingGrov,1,78,4923894,4,16945844,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+273825,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2023-12-30,SterlingGrov,1,78,4923908,18,16945903,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+273907,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-01-03,GldMtn-Olym,1,74,4925379,13,16950992,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+273838,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2024-01-03,kapolei,1,76,4924125,1,16946504,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+273941,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-01-04,kapolei,1,73,4925996,18,16953315,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+274019,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-01-04,SherryGolf,1,77,4927393,11,16958138,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+274418,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-05,Sony 2024,1,79,4934574,10,16983591,3,0,40,1,0,0,0.156,-0.008, ,Tee,5,3
+274423,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-01-09,Marbella,1,31,4934666,12,16983897,2,0,45,1,0,0,1.432,1.391, ,Tee,3,2
+274436,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-01-06,NewcastlCoal,1,73,4934891,3,16984702,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+274436,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-01-06,NewcastlCoal,1,73,4934905,17,16984759,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+274478,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-10,Midpac,1,79,4935646,2,16986782,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+274478,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-10,Midpac,1,79,4935649,5,16986795,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+274478,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-10,Midpac,1,79,4935661,17,16986846,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+275056,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-01-11,industry,1,75,4946058,10,17022593,3,0,26,1,0,0,0.706,0.709, ,Tee,5,3
+274575,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-01-11,LosSerranosN,1,74,4937403,13,16992669,3,0,24,1,0,0,0.161,0.068, ,Tee,6,4
+274580,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-12-19,Aviara,1,74,4937488,8,16992838,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+274580,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-12-19,Aviara,1,74,4937488,8,16992840,5,0,0,0,0,1,0.0,0.0, ,Tee,7,3
+274580,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2023-12-19,Aviara,1,74,4937498,18,16992881,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+274606,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2024-01-11,industryhill,1,81,4937951,3,16994608,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+274635,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-11,Hoakalei,1,55,4938471,1,16996382,3,0,18,1,0,0,0.289,0.245, ,Tee,5,3
+274635,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-11,Hoakalei,1,55,4938475,5,16996399,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+274635,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-11,Hoakalei,1,55,4938478,8,16996413,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+274660,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-12,Kukio,1,80,4938926,6,16998150,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+274660,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-12,Kukio,1,80,4938928,8,16998157,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+274759,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-13,Kukio,1,78,4940707,5,17004171,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+274944,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-01-14,Glendora Cc,1,52,4944037,5,17016176,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+275248,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-01-16,Glendora,1,73,4949510,6,17034431,3,0,18,1,0,0,-0.112,-0.266, ,Tee,5,3
+275248,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-01-16,Glendora,1,73,4949518,14,17034463,3,0,13,1,0,0,1.037,0.996, ,Tee,5,3
+275057,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-01-16,industry,1,72,4946073,7,17022652,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+277187,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-01-21,Glendora,1,71,4984411,5,17152901,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+277187,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-01-21,Glendora,1,71,4984412,6,17152907,3,0,20,1,0,0,0.99,0.951, ,Tee,5,3
+275541,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-01-21,Glendora Cc,1,49,4954785,7,17053230,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+277637,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-01-30,Glendora,1,91,4992510,4,17181641,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+277637,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-01-30,Glendora,1,91,4992516,10,17181675,3,0,50,1,0,0,0.882,0.886, ,Tee,5,3
+277637,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-01-30,Glendora,1,91,4992521,15,17181697,2,0,13,1,0,0,1.252,1.23, ,Tee,4,3
+277637,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-01-30,Glendora,1,91,4992522,16,17181702,3,0,19,1,0,0,-0.043,-0.122, ,Tee,6,4
+276446,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-01-19,Glendora CC,1,41,4971069,1,17107242,3,0,40,1,0,0,0.101,-0.058, ,Tee,6,4
+276484,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-01-29,Mountain M,1,71,4971766,14,17109764,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+277242,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-03,Glendora CC,1,37,4985403,7,17156646,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+277242,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-03,Glendora CC,1,37,4985403,7,17156647,3,0,20,1,0,0,0.855,0.826, ,Tee,5,3
+276850,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-02-03,Glendora Cc,1,40,4978347,7,17132087,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+277198,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-02-07,Mount Meadow,1,68,4984617,13,17153599,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+277470,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-08,Glendora CC,1,73,4989517,17,17170997,2,0,43,1,0,0,0.403,0.393, ,Tee,5,4
+277263,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-02-08,glendo,1,73,4985792,18,17157708,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+277657,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-02-10,los serran s,1,76,4992882,16,17182919,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+277528,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-02-10,los serran s,1,72,4990551,7,17174654,2,0,45,1,0,0,0.966,0.974, ,Tee,3,2
+277711,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-02-10,Los sorrenos,1,80,4993848,10,17186734,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+277673,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-02-10,Los Serranos,1,79,4993155,1,17183986,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+277539,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-02-10,Los Serranos,1,81,4990745,3,17175483,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+277539,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-02-10,Los Serranos,1,81,4990745,3,17175484,5,0,20,1,0,0,0.754,0.744, ,Tee,7,3
+278934,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-11,Sorranos,1,93,5015854,2,17263076,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+278934,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-11,Sorranos,1,93,5015855,3,17263083,2,0,0,0,0,1,0.0,0.0, ,Tee,10,9
+278934,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-11,Sorranos,1,93,5015855,3,17263085,4,0,0,0,0,1,0.0,0.0, ,Tee,10,7
+277685,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-02-11,Los Ser,1,74,4993377,7,17184879,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+277693,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-02-11,Los Serranos,1,77,4993530,16,17185530,3,0,47,1,0,0,0.691,0.647, ,Tee,6,4
+277697,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2024-02-11,losSerronosS,1,79,4993587,1,17185717,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+278158,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2024-02-11,LosSerranosN,1,78,5001897,13,17214681,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+278624,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-16,MM,1,91,5010284,12,17243991,4,0,0,0,0,1,0.0,0.0, ,Tee,10,7
+278624,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-16,MM,1,91,5010290,18,17244021,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+278196,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2024-02-16,MM,1,81,5002583,15,17216856,3,0,0,0,0,1,0.0,0.0, ,Tee,9,7
+278453,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2024-02-16,mount medow,1,79,5007211,17,17232726,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+278213,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-02-16,Mount Meadow,1,70,5002878,4,17218053,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+278765,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-02-17,MM,1,80,5012813,3,17252304,6,0,0,0,0,2,0.0,0.0, ,Tee,7,2
+278765,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-02-17,MM,1,80,5012819,9,17252327,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+278765,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-02-17,MM,1,80,5012824,14,17252348,2,0,45,1,0,0,0.147,0.077, ,Tee,5,4
+278352,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-17,Mountain M,1,72,5005379,3,17226332,2,0,46,1,0,0,0.281,0.262, ,Tee,5,4
+278362,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-02-10,LosSerranosS,1,76,5005557,1,17226912,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+278437,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-02-17,Mountain Mea,1,79,5006921,15,17231851,3,0,20,1,0,0,0.544,0.557, ,Tee,5,3
+278507,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2024-02-18,mesa linda,1,86,5008174,8,17236153,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+278509,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2024-02-18,Costa Mesa,1,81,5008216,14,17236347,4,0,39,1,0,0,0.694,0.698, ,Tee,6,3
+278510,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-02-18,Costa,1,74,5008228,8,17236403,2,0,45,1,0,0,0.898,0.911, ,Tee,4,3
+278528,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-18,CostaMesaLL,1,73,5008551,7,17237782,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+278528,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-18,CostaMesaLL,1,73,5008551,7,17237783,3,0,41,1,0,0,0.827,0.84, ,Tee,5,3
+278537,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-02-18,CostaMesaLin,1,72,5008719,13,17238516,3,0,40,1,0,0,-0.086,-0.064, ,Tee,6,4
+278542,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-02-18,Costa Mesa,1,78,5008807,11,17238861,2,0,46,1,0,0,0.146,0.143, ,Tee,4,3
+278670,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-19,Costa,1,80,5011107,7,17247018,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+278935,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-09,Sorranos,1,85,5015871,1,17263164,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+278935,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-02-09,Sorranos,1,85,5015886,16,17263237,3,0,45,1,0,0,1.647,1.625, ,Tee,4,2
+281266,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2024-02-24,Glendora,1,84,5057833,5,17412469,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+279182,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-24,CostaMesaLL,1,71,5020322,6,17279581,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+279182,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-02-24,CostaMesaLL,1,71,5020323,7,17279588,2,0,18,1,0,0,0.089,0.106, ,Tee,4,3
+279187,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-02-24,CostaMesa,1,68,5020420,14,17279919,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+279450,cmct2023@mymail.pomona.edu,Clara Chae,Clara Chae,2024-02-24,Glendora,1,85,5025151,11,17297714,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+279450,cmct2023@mymail.pomona.edu,Clara Chae,Clara Chae,2024-02-24,Glendora,1,85,5025158,18,17297745,2,0,0,0,0,1,0.0,0.0, ,Tee,9,8
+279456,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2024-02-24,glendora cc,1,82,5025257,9,17298185,3,0,25,1,0,0,-0.002,0.016, ,Tee,5,3
+281633,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-03-04,Glendora Cc,1,42,5064441,7,17435833,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281275,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-03-11,Moorpark,1,71,5057994,4,17412984,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281316,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-03-11,moorpark cc,1,77,5058737,9,17415829,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+281316,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-03-11,moorpark cc,1,77,5058740,12,17415842,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+281280,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-03-11,Moorpark CC,1,74,5058081,1,17413278,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281280,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-03-11,Moorpark CC,1,74,5058085,5,17413295,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+281643,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-03-11,Moorpark,1,77,5064616,2,17436339,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281643,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-03-11,Moorpark,1,77,5064619,5,17436354,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+281643,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-03-11,Moorpark,1,77,5064627,13,17436387,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+281312,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-11,moore,1,79,5058661,5,17415620,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+281312,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-11,moore,1,79,5058666,10,17415641,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+281312,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-11,moore,1,79,5058667,11,17415647,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281312,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-11,moore,1,79,5058673,17,17415674,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281380,Ecaa2021@mymail.Pomona.edu,Emily Chang,Emily Chang,2024-03-11,Moorpark C,1,74,5059896,16,17419946,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+281429,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-03-12,Moorpark C/R,1,72,5060774,12,17423206,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+281429,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-03-12,Moorpark C/R,1,72,5060778,16,17423222,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+281429,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-03-12,Moorpark C/R,1,72,5060778,16,17423224,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+281429,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-03-12,Moorpark C/R,1,72,5060779,17,17423231,3,0,26,1,0,0,0.644,0.655, ,Tee,5,3
+281431,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-03-12,Moorpark,1,74,5060811,13,17423363,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+281431,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-03-12,Moorpark,1,74,5060811,13,17423365,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+281440,rhlq2023@mymail.pomona.edu,Rachel LeMay,Rachel LeMay,2024-03-12,moorpark,1,76,5060963,3,17423894,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+281437,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-03-12,moorpark cc,1,73,5060918,12,17423764,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+281529,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-13,moore,1,80,5062563,1,17429387,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281529,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-13,moore,1,80,5062572,10,17429428,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+281529,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-13,moore,1,80,5062578,16,17429453,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+281529,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-13,moore,1,80,5062580,18,17429462,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+281750,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-03-12,Moorpark CC,1,79,5066541,1,17442922,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+281750,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-03-12,Moorpark CC,1,79,5066545,5,17442939,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+281750,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-03-12,Moorpark CC,1,79,5066550,10,17442962,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+281750,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-03-12,Moorpark CC,1,79,5066550,10,17442964,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+282649,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-03-14,Black Gold,1,75,5082733,11,17502041,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+282024,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-03-16,Black Gold,1,81,5071477,5,17460462,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+282247,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-03-17,Black Gold,1,79,5075490,4,17475508,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+282645,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-03-20,Glendora Cc,1,75,5082656,6,17501716,3,0,35,1,0,0,0.216,0.245, ,Tee,5,3
+283262,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2024-03-23,glendora cc,1,88,5093774,18,17541647,2,0,0,0,0,1,0.0,0.0, ,Tee,8,7
+283273,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-03-23,Glendora,1,76,5093961,7,17542369,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+283273,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-03-23,Glendora,1,76,5093967,13,17542396,2,0,25,1,0,0,0.968,0.937, ,Tee,4,3
+283026,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-03-23,Glendora,1,71,5089522,14,17526634,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+283036,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-23,glendo,1,74,5089694,6,17527298,3,0,50,1,0,0,1.245,1.224, ,Tee,5,3
+283271,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-03-25,Glendora,1,76,5093926,8,17542209,2,0,35,1,0,0,0.367,0.354, ,Tee,4,3
+283271,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-03-25,Glendora,1,76,5093927,9,17542213,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+283271,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-03-25,Glendora,1,76,5093934,16,17542243,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+283753,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-03-29,MM,1,82,5102597,3,17572898,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+284001,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-03-29,Mountain M,1,75,5107071,13,17588855,2,0,29,1,0,0,-0.404,-0.406, ,Tee,6,5
+283872,mloo@students.pitzer.edu,Malia Loo,Malia Loo,2024-03-08,Harding,1,37,5104740,4,17580518,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+283963,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-03-29,mountain m,1,70,5106389,15,17586100,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+283975,Ecaa2021@mymail.Pomona.edu,Emily Chang,Emily Chang,2024-03-30,Pacific Grov,1,79,5106602,12,17586955,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+283975,Ecaa2021@mymail.Pomona.edu,Emily Chang,Emily Chang,2024-03-30,Pacific Grov,1,79,5106604,14,17586965,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+283981,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2024-03-30,UCSC,1,81,5106710,12,17587342,4,0,0,0,0,1,0.0,0.0, ,Tee,8,5
+283981,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2024-03-30,UCSC,1,81,5106711,13,17587348,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+284115,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-03-31,Pacific Grov,1,79,5109114,4,17595770,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+284115,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-03-31,Pacific Grov,1,79,5109118,8,17595791,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+284115,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-03-31,Pacific Grov,1,79,5109118,8,17595792,4,0,49,1,0,0,1.143,1.136, ,Tee,6,3
+284189,mloo@students.pitzer.edu,Malia Loo,Malia Loo,2024-03-31,PG,1,77,5110446,4,17600739,5,0,0,0,0,1,0.0,0.0, ,Tee,10,6
+285063,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-03,Mountain M,1,75,5126177,3,17657186,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+284634,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-04-04,Glendora Cc,1,38,5118458,6,17629081,3,0,40,1,0,0,0.32,0.308, ,Tee,5,3
+284669,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-04-03,Mount Meadow,1,72,5119086,4,17631018,3,0,50,1,0,0,0.217,0.214, ,Tee,6,4
+284687,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2024-04-04,pacific grov,1,74,5119423,17,17632224,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+284687,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2024-04-04,pacific grov,1,74,5119423,17,17632226,4,0,0,0,0,1,0.0,0.0, ,Tee,7,4
+284972,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-03-29,MM,1,80,5124551,15,17650799,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+285011,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-04-06,Glendora Cc,1,76,5125240,2,17653431,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+285183,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2024-04-06,Mountain M,1,75,5128348,14,17665549,3,0,13,0,0,0,-0.058,-0.079, ,Tee,5,3
+285326,mloo@students.pitzer.edu,Malia Loo,Malia Loo,2024-04-07,MM,1,85,5130922,14,17674705,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+285330,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-04-07,MM,1,70,5130993,13,17675033,2,0,35,1,0,0,0.598,0.592, ,Tee,4,3
+285458,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-07,mountain m,1,78,5133288,4,17683508,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+285491,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-04-07,Glendora Cc,1,82,5133891,13,17685607,2,0,40,1,0,0,0.455,0.451, ,Tee,4,3
+285499,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-04-08,Glendora CC,1,78,5134027,5,17686109,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+285499,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-04-08,Glendora CC,1,78,5134029,7,17686118,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+286564,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2024-04-14,Glendora,1,78,5153208,16,17755373,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+286569,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-04-14,Glendora CC,1,75,5153289,7,17755687,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+287602,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-04-20,Glendora,1,73,5171893,17,17821855,2,0,20,1,0,0,1.078,1.037, ,Tee,4,3
+287614,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2024-04-20,Glendora,1,77,5172108,16,17822531,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287617,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-20,arnold run,1,80,5172153,7,17822760,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+287617,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-20,arnold run,1,80,5172153,7,17822763,5,0,35,1,0,0,0.248,0.236, ,Tee,7,3
+287617,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-20,arnold run,1,80,5172154,8,17822767,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+287618,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-20,arnold run,2,78,5172168,4,17822828,3,0,25,1,0,0,0.858,0.837, ,Tee,5,3
+287618,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-20,arnold run,2,78,5172172,8,17822843,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+287626,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2024-04-20,Emory,1,81,5172316,8,17823265,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287626,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2024-04-20,Emory,1,81,5172317,9,17823271,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287627,fawo2023@mymail.pomona.edu,Francesco Attili,Francesco Attili,2024-04-20,Emory,2,75,5172344,18,17823385,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287650,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-04-20,Cherokee run,1,79,5172753,13,17824922,3,0,20,1,0,0,-0.126,-0.112, ,Tee,6,4
+287650,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-04-20,Cherokee run,1,79,5172758,18,17824945,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+287652,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-04-20,Cherokee run,1,77,5172777,1,17825030,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+287653,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-04-20,Cherokee run,2,81,5172803,9,17825141,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+287653,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-04-20,Cherokee run,2,81,5172808,14,17825165,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+287662,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-04-20,CherokeeRun,1,81,5172964,8,17825736,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287662,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-04-20,CherokeeRun,1,81,5172966,10,17825746,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+287697,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-20,CherokeeRun,1,81,5173592,6,17827816,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+287697,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-20,CherokeeRun,1,81,5173595,9,17827831,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+287698,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-20,CherokeeRun,2,76,5173612,8,17827904,3,0,34,1,0,0,-0.843,-0.857, ,Tee,6,4
+287698,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-20,CherokeeRun,2,76,5173612,8,17827905,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+287698,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-20,CherokeeRun,2,76,5173622,18,17827946,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287919,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-21,arnold run,1,79,5177593,11,17842993,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+287983,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-04-21,Cherokee run,1,74,5178742,8,17848449,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287983,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-04-21,Cherokee run,1,74,5178745,11,17848464,3,0,50,1,0,0,0.9,0.907, ,Tee,5,3
+287983,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-04-21,Cherokee run,1,74,5178750,16,17848483,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+287901,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-21,CherokeeRun,1,80,5177266,8,17841802,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+287901,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-21,CherokeeRun,1,80,5177275,17,17841843,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+287901,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-21,CherokeeRun,1,80,5177276,18,17841849,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+287988,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-04-21,Cherokee run,1,91,5178828,4,17848777,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+287988,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-04-21,Cherokee run,1,91,5178835,11,17848815,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+288254,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-04-23,Los s North,1,76,5183624,12,17865709,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+288666,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-23,Glendora CC,1,37,5191032,4,17891313,3,0,38,1,0,0,0.727,0.736, ,Tee,5,3
+288960,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-04-26,Los Ser,1,73,5196323,3,17909914,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+288907,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-04-26,Sorranos,1,75,5195367,1,17906357,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+288907,rkwa2020@mymail.Pomona.edu,Ray Winter,Ray Winter,2024-04-26,Sorranos,1,75,5195384,18,17906426,3,0,0,0,1,1,0.0,0.0, ,Tee,6,4
+288947,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-04-26,los serran s,1,78,5196101,15,17909120,3,0,40,1,0,0,0.098,0.101, ,Tee,6,4
+288958,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-26,LosSerranosS,1,79,5196291,7,17909769,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+288958,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-26,LosSerranosS,1,79,5196294,10,17909784,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+288959,dmwa2021@mymail.pomona.edu,David Wong,David Wong,2024-04-26,losSerronosS,1,82,5196318,16,17909889,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+288964,ajop2023@mymail.pomona.edu,Alexander Oh,Alexander Oh,2024-04-26,LosSerranosS,1,75,5196399,7,17910176,2,0,40,1,0,0,0.043,0.041, ,Tee,5,4
+289448,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-28,LosSerranosS,1,75,5205115,11,17941972,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+289448,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-28,LosSerranosS,1,75,5205122,18,17942000,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+289460,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-04-28,los serran s,1,72,5205328,8,17942657,3,0,50,1,0,0,0.544,0.561, ,Tee,6,4
+289620,omlz2022@mymail.pomona.edu,Ottavia Lombardo,Ottavia Lombardo,2024-04-29,LosSerranosN,1,80,5208205,5,17953662,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+289636,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-29,LosSerranosS,1,73,5208489,1,17954652,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+289637,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-04-29,Los Ser,1,79,5208521,15,17954783,3,0,45,1,0,0,0.456,0.473, ,Tee,6,4
+289801,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-04-30,LosSerranos,1,77,5211471,13,17964971,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+289805,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-04-30,LosSerranosS,1,73,5211548,18,17965291,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+290036,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-05-01,glendo,1,43,5215696,8,17979434,2,0,25,1,0,0,0.615,0.627, ,Tee,4,3
+292065,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-05-08,Glendora,1,73,5252197,5,18111727,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+292938,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-05-14,Marbella,1,35,5267908,2,18169047,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+292938,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-05-14,Marbella,1,35,5267915,9,18169074,2,0,35,1,0,0,0.171,0.158, ,Tee,4,3
+293270,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-05-14,Glendora,1,37,5273887,5,18190076,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+293194,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-05-13,Indian celeb,1,77,5272518,4,18185151,3,0,10,1,0,0,0.364,0.368, ,Tee,5,3
+293194,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-05-13,Indian celeb,1,77,5272521,7,18185163,3,0,18,1,0,0,0.157,0.117, ,Tee,6,4
+293194,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-05-13,Indian celeb,1,77,5272528,14,18185195,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+293194,tlee@students.pitzer.edu,Tucker Lee,Tucker Lee,2024-05-13,Indian celeb,1,77,5272529,15,18185200,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+293327,yyox2023@mymail.pomona.edu,Eunice Yi,Eunice Yi,2024-05-14,Glendora,1,37,5274913,5,18193311,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+294542,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-05-21,SilverRock,1,75,5296792,14,18273008,3,0,25,1,0,0,0.178,0.169, ,Tee,5,3
+294542,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-05-21,SilverRock,1,75,5296796,18,18273025,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+295347,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-05-23,Keene Run,2,79,5311282,14,18324644,3,0,15,1,0,0,-0.035,-0.011, ,Tee,6,4
+295083,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-05-24,skylinks,1,72,5306525,9,18307249,2,0,27,1,0,0,0.443,0.429, ,Tee,5,4
+295443,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-05-25,Keene Run,1,77,5313001,5,18330711,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+295443,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-05-25,Keene Run,1,77,5313014,18,18330766,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+295464,Ecaa2021@mymail.Pomona.edu,Emily Chang,Emily Chang,2024-05-23,Keene Run,2,71,5313383,9,18332273,2,0,30,1,0,0,0.67,0.683, ,Tee,4,3
+295464,Ecaa2021@mymail.Pomona.edu,Emily Chang,Emily Chang,2024-05-23,Keene Run,2,71,5313387,13,18332291,3,0,30,1,0,0,0.67,0.683, ,Tee,5,3
+296688,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-05-30,AppleTree,1,76,5335409,3,18412046,3,0,50,1,0,0,0.172,0.178, ,Tee,6,4
+296610,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-05-30,Marbella,1,72,5334004,2,18407182,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+296938,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-05-31,Marbella,1,72,5339909,3,18427620,2,0,45,1,0,0,0.228,0.242, ,Tee,5,4
+297427,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-02,Marbella,1,72,5348709,1,18460269,3,0,0,0,0,2,0.0,0.0, ,Tee,6,4
+297427,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-02,Marbella,1,72,5348720,12,18460312,2,0,19,1,0,0,0.907,0.876, ,Tee,3,2
+298036,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-04,Marbella,1,35,5359672,2,18500590,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+298299,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-06-06,SherryGolf,1,36,5364417,13,18516808,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+299866,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-06-07,Villanueva R,1,77,5392618,9,18619457,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+299866,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-06-07,Villanueva R,1,77,5392622,13,18619475,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+298357,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-06,Marbella,1,68,5365462,14,18520251,2,0,0,0,0,2,0.0,0.0, ,Tee,7,6
+299762,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-06-11,Weibring,1,72,5390748,11,18612826,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+299762,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-06-11,Weibring,1,72,5390750,13,18612837,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+299857,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-13,la wilson,1,76,5392457,10,18618845,3,0,35,1,0,0,-0.858,-0.858, ,Tee,7,5
+299857,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-13,la wilson,1,76,5392457,10,18618846,4,0,25,1,0,0,0.116,0.139, ,Tee,7,4
+299857,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-13,la wilson,1,76,5392461,14,18618863,3,0,45,1,0,0,0.636,0.596, ,Tee,5,3
+300000,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-14,la harding,1,73,5395032,11,18627979,3,0,45,1,0,0,0.991,0.994, ,Tee,4,2
+300266,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-15,la wilson,1,76,5399818,9,18645532,2,0,0,0,0,2,0.0,0.0, ,Tee,9,8
+300266,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-15,la wilson,1,76,5399818,9,18645535,5,0,50,1,0,0,-0.318,-0.283, ,Tee,9,5
+300623,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-16,la wilson,1,80,5406235,2,18669164,3,0,30,1,0,0,0.328,0.288, ,Tee,5,3
+300623,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-06-16,la wilson,1,80,5406242,9,18669196,3,0,42,1,0,0,0.219,0.235, ,Tee,6,4
+303520,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-06-29,Kettle Brook,1,86,5458388,9,18859526,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+304027,Cjem2022@mymail.Pomona.edu,Colin Elias,Colin Elias,2024-06-30,Wachusett,1,78,5467521,16,18894277,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+303993,aslr2024@mymail.pomona.edu,Andrew Lim,Andrew Lim,2024-06-08,Neshanic L/M,1,76,5466900,7,18892034,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+303993,aslr2024@mymail.pomona.edu,Andrew Lim,Andrew Lim,2024-06-08,Neshanic L/M,1,76,5466911,18,18892075,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+303995,aslr2024@mymail.pomona.edu,Andrew Lim,Andrew Lim,2024-05-06,Fairmount,1,76,5466947,18,18892231,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+306741,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-07-10,Atkins GC,1,75,5516342,3,19072088,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+306741,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-07-10,Atkins GC,1,75,5516354,15,19072134,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+306741,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-07-10,Atkins GC,1,75,5516357,18,19072148,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+306804,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-07-13,Torrey pines,1,75,5517488,15,19076040,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+307153,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-07-04,Marbella,1,31,5523758,3,19099422,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+307292,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-07-15,torrey north,1,73,5526262,5,19108945,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+312253,aslr2024@mymail.pomona.edu,Andrew Lim,Andrew Lim,2024-07-02,Trenton CC,1,76,5615565,10,19428225,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+312458,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-08-09,Midpac CC,1,73,5619260,15,19440614,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+313643,mrockroh@students.pitzer.edu,Max Rockrohr,Max Rockrohr,2024-08-08,Sanctuary,1,69,5640578,3,19515259,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+314178,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-08-17,Marbella,1,71,5650209,4,19549975,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+314867,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-08-20,SherryGolf,1,70,5662616,9,19594484,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+315840,rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-08-21,Midpac CC,1,75,5680126,5,19657574,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+315588,aslr2024@mymail.pomona.edu,Andrew Lim,Andrew Lim,2024-08-24,Glendora,1,37,5675592,7,19640385,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+316092,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-08-27,Marbella,1,71,5684659,2,19673741,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+318423,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-08-27,Glendora,1,46,5726599,2,19824366,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+318423,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-08-27,Glendora,1,46,5726608,11,19824403,2,0,50,1,0,0,0.986,0.999, ,Tee,4,3
+316954,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-08-31,Oak Valley,1,72,5700173,18,19727923,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+317076,cmct2023@mymail.pomona.edu,Clara Chae,Clara Chae,2024-08-31,Glendora,1,72,5702356,5,19735689,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+317218,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-09-01,Oak Valley,1,73,5704920,13,19745408,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+317223,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-09-01,Oak Valley,1,76,5704998,1,19745715,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+317223,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-09-01,Oak Valley,1,76,5705013,16,19745775,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+317474,jhkt2022@mymail.pomona.edu,John Kim,John Kim,2024-09-02,MorongoChamp,1,71,5709520,5,19762795,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+317483,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-09-02,bear creek,1,72,5709686,9,19763455,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+318163,nhnf2024@mymail.pomona.edu,Nilay Naik,Nilay Naik,2024-09-01,Oak Valley,1,77,5721933,16,19806902,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+318426,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-09-05,Marbella,1,71,5726660,9,19824560,2,0,0,0,0,2,0.0,0.0, ,Tee,5,4
+318426,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-09-05,Marbella,1,71,5726666,15,19824585,3,0,0,0,0,1,0.0,0.0, ,Tee,5,3
+318426,ybannai@students.pitzer.edu,Yuki Bannai,Yuki Bannai,2024-09-05,Marbella,1,71,5726669,18,19824596,2,0,0,0,0,2,0.0,0.0, ,Tee,6,5
+318618,ktodd@students.pitzer.edu,Kiara Todd,Kiara Todd,2024-09-08,champions,1,85,5730118,11,19837261,3,0,0,0,0,1,0.0,0.0, ,Tee,7,5
+318512,Rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-09-08,Morongochamp,1,77,5728201,2,19830391,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3
+318512,Rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-09-08,Morongochamp,1,77,5728204,5,19830404,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+318512,Rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-09-08,Morongochamp,1,77,5728207,8,19830417,2,0,30,1,0,0,0.763,0.766, ,Tee,3,2
+318512,Rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-09-08,Morongochamp,1,77,5728208,9,19830420,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+318512,Rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-09-08,Morongochamp,1,77,5728213,14,19830443,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+318516,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-09-08,Moronchamp,1,82,5728276,5,19830749,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+318516,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-09-08,Moronchamp,1,82,5728276,5,19830751,4,0,0,0,0,1,0.0,0.0, ,Tee,6,3
+318516,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-09-08,Moronchamp,1,82,5728280,9,19830768,2,0,0,0,0,1,0.0,0.0, ,Tee,7,6
+318516,dlyne@students.pitzer.edu,Daniel Lyne,Daniel Lyne,2024-09-08,Moronchamp,1,82,5728284,13,19830789,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+318586,nhnf2024@mymail.pomona.edu,Nilay Naik,Nilay Naik,2024-09-07,Glendora CC,1,67,5729548,17,19835155,2,0,44,1,0,0,0.119,0.043, ,Tee,4,3
+318586,nhnf2024@mymail.pomona.edu,Nilay Naik,Nilay Naik,2024-09-07,Glendora CC,1,67,5729549,18,19835160,3,0,39,1,0,0,0.141,-0.023, ,Tee,6,4
+318587,aslr2024@mymail.pomona.edu,Andrew Lim,Andrew Lim,2024-09-07,Glendora,1,74,5729555,6,19835187,3,0,23,1,0,0,0.831,0.81, ,Tee,5,3
+318758,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-08-22,SherryGolf,1,68,5732636,9,19846451,2,0,0,0,0,1,0.0,0.0, ,Tee,5,4
+318758,fgdd2022@mymail.pomona.edu,Federica Domecq,Federica Domecq,2024-08-22,SherryGolf,1,68,5732643,16,19846479,3,0,0,0,0,1,0.0,0.0, ,Tee,6,4
+318973,Rhenlee@students.pitzer.edu,Rhen Lee,Rhen Lee,2024-09-10,Glendora CC,1,36,5736506,9,19860402,3,0,20,1,0,0,0.803,0.782, ,Tee,5,3
+319168,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-09-21,Morongo Cham,1,74,5740019,12,19873522,2,0,0,0,0,1,0.0,0.0, ,Tee,6,5
+319168,benjamin.morehead@cgu.edu,Ben Morehead,Ben Morehead,2024-09-21,Morongo Cham,1,74,5740022,15,19873535,2,0,0,0,0,1,0.0,0.0, ,Tee,4,3

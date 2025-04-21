@@ -2,10 +2,10 @@
 import pandas as pd
 
 
-lie_type = 'green'    
+lie_type = 'dprough'    
 
 
-df = pd.read_csv(f"shots_under70_{lie_type}.csv")
+df = pd.read_csv(f"data/shots_under60_{lie_type}.csv")
 
 
 
@@ -18,5 +18,5 @@ summary = df.groupby("holedis").agg(
 
 
 # -------- SAVE --------
-summary.to_csv(f"strokes_summary_{lie_type}.csv", index=False)
+summary.to_csv(f"data/strokes_summary_{lie_type}.csv", index=False)
 print(f"Saved summary for {lie_type}.")

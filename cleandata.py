@@ -7,6 +7,8 @@ Splitting ppdata into separate CSVs by lie type, keeping only shots within 70 ya
 # Load data
 ppdata = pd.read_csv("ppdata.csv")
 
+max_dis = 50
+
 # Map startpos codes to readable lie labels
 lie_map = {
     0: "Tee",
@@ -25,13 +27,13 @@ ppdata = ppdata[ppdata["stroke"].notna() & ppdata["holedis"].notna()]
 ppdata["total_strokes"] = ppdata.groupby(["roundid", "holeid"])["stroke"].transform("max")
 ppdata["strokes_remaining"] = ppdata["total_strokes"] - ppdata["stroke"] + 1
 
-# Keep only shots within 70 yards
-ppdata = ppdata[ppdata["holedis"] <= 70]
+# Keep only shots within 60 yards
+ppdata = ppdata[ppdata["holedis"] <= max_dis]
 
 # Save one CSV per lie type
 for lie_type in ppdata["lie"].dropna().unique():
     lie_df = ppdata[ppdata["lie"] == lie_type]
-    filename = f"shots_under70_{lie_type.lower()}.csv"
+    filename = f"data/shots_under{max_dis}_{lie_type.lower()}.csv"
     lie_df.to_csv(filename, index=False)
 
 print("Raw shot files saved by lie.")

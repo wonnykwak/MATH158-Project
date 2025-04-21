@@ -1,0 +1,10 @@
+- we should only stick with rgh, sand, fairway
+
+Yes — but implicitly.
+Gaussian Processes are inherently regularised. Here’s how:
+
+The RBF kernel has a hyperparameter: length_scale, which controls smoothness.
+
+The model automatically optimises this hyperparameter by maximising the marginal likelihood (a built-in form of model evidence that balances fit vs complexity).
+
+This is a kind of regularisation. It avoids overfitting by penalising too much complexity — similar in spirit to ridge regression or other Bayesian models.

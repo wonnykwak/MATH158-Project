@@ -19,8 +19,9 @@ for lie in lies:
     y = df['avg_strokes'].values
 
     # Define kernel with default tuning
-    kernel = RBF() + WhiteKernel()
-    gpr = GaussianProcessRegressor(kernel=kernel, alpha=1e-6, normalize_y=True)
+    kernel = RBF(length_scale_bounds=(5, 100.0)) + WhiteKernel(noise_level=0.05, noise_level_bounds=(0.05, 1.0))
+
+    gpr = GaussianProcessRegressor(kernel=kernel, alpha=1e-2, normalize_y=True)
     gpr.fit(X, y)
 
     print(f"Optimised kernel for {lie}: {gpr.kernel_}")

@@ -21,7 +21,7 @@ Y = R * np.sin(T)
 
 # Set up plot
 fig, ax = plt.subplots(figsize=(6.5, 6.5), subplot_kw={'aspect': 'equal'})
-mesh = ax.pcolormesh(X, Y, Z, shading='auto', cmap='inferno_r')
+mesh = ax.pcolormesh(X, Y, Z, shading='auto', cmap='viridis_r')
 
 # Guide circles every 5 yards
 r_max = r_vals.max()

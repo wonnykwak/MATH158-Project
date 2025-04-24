@@ -57,7 +57,7 @@ fig, ax = plt.subplots(figsize=(7, 7))
 
 
 
-lies = ['fairway', 'sand', 'dprough', 'rough']  # will handle green differently
+lies = ['fairway', 'sand', 'dprough', 'rough', 'green']  # will handle green differently
 os.makedirs("results", exist_ok=True)
 
 gpr_by_lie = {}
@@ -90,12 +90,11 @@ def expected_strokes(x, y):
     print(dist)
     d2 = np.array([[dist]], dtype=float)
     cur_point = Point(x,y)
-    if(green_poly.contains(cur_point)):
-        
-        return gpr_by_lie['fairway'].predict(d2,return_std=False, return_cov=False)[0]
-    elif(sand_poly.contains(cur_point)):
+    if(green_poly.contains(cur_point)): #on green
+        return gpr_by_lie['green'].predict(d2,return_std=False, return_cov=False)[0]
+    elif(sand_poly.contains(cur_point)): #in bunker
         return gpr_by_lie['sand'].predict(d2,return_std=False, return_cov=False)[0] 
-    elif(water_poly.contains(cur_point)): #on green 
+    elif(water_poly.contains(cur_point)): #in water hazard 
         return gpr_by_lie['fairway'].predict(d2,return_std=False, return_cov=False)[0] + 1
     else: #rough situation
         return gpr_by_lie['rough'].predict(d2,return_std=False, return_cov=False)[0]
